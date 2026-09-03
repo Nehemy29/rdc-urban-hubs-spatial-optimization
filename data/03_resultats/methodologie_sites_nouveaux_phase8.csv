@@ -1,0 +1,7 @@
+﻿critere,poids,statut
+Potentiel populationnel,0.3,réel/modélisé
+Proximité route,0.25,OSM
+Proximité voie d'eau,0.2,OSM
+Proximité rail,0.1,OSM
+Proximité aérodrome,0.05,OSM
+Lacune territoriale,0.1,calculé

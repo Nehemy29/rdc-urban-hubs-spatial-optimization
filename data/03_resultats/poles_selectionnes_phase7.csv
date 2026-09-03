@@ -1,0 +1,31 @@
+﻿scenario_p,node_id,pole,province
+5,GN2314302,Kinshasa,Kinshasa
+5,GN2313002,Matadi,Kongo-Central
+5,GN2314705,Kikwit,Kwilu
+5,GN2315417,Inongo,Maï-Ndombe
+5,GN211734,Lisala,Mongala
+10,GN2312895,Mbandaka,Equateur
+10,GN2314302,Kinshasa,Kinshasa
+10,GN2313002,Matadi,Kongo-Central
+10,GN2312888,Mbanza-Ngungu,Kongo-Central
+10,GN2312393,Moanda,Kongo-Central
+10,GN2317397,Bandundu Province,Kwilu
+10,GN2314705,Kikwit,Kwilu
+10,GN217745,Bumba,Mongala
+10,GN2315728,Gemena,Sud-Ubangi
+10,GN218680,Boende,Tshuapa
+15,GN2312895,Mbandaka,Equateur
+15,GN2314302,Kinshasa,Kinshasa
+15,GN2313002,Matadi,Kongo-Central
+15,GN2312888,Mbanza-Ngungu,Kongo-Central
+15,GN2312393,Moanda,Kongo-Central
+15,GN2314937,Kenge,Kwango
+15,GN2317397,Bandundu Province,Kwilu
+15,GN2315579,Idiofa,Kwilu
+15,GN2314705,Kikwit,Kwilu
+15,GN2315417,Inongo,Maï-Ndombe
+15,GN217745,Bumba,Mongala
+15,GN211734,Lisala,Mongala
+15,GN216404,Gbadolite,Nord-Ubangi
+15,GN2315728,Gemena,Sud-Ubangi
+15,GN218680,Boende,Tshuapa

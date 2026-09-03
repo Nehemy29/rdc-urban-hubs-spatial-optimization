@@ -1,0 +1,7 @@
+﻿indicateur,valeur
+Simulations Monte-Carlo,5000
+Candidats testés,75
+Provinces,10
+Sites robustes > 80 %,6
+Sites robustes > 50 %,9
+Exposition proxy élevée parmi les sites retenus,6

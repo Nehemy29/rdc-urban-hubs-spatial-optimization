@@ -1,0 +1,79 @@
+﻿scenario_p,node_id,noeud,province,population_worldpop_5km_2025,pole_affecte,distance_reseau_modele_km
+5,GN2312895,Mbandaka,Equateur,442973,Inongo,219.76
+5,GN2314302,Kinshasa,Kinshasa,1580394,Kinshasa,0.0
+5,GN2313002,Matadi,Kongo-Central,731239,Matadi,0.0
+5,GN2316702,Boma,Kongo-Central,358729,Matadi,45.31
+5,GN2312888,Mbanza-Ngungu,Kongo-Central,291513,Kinshasa,115.13
+5,GN2312393,Moanda,Kongo-Central,433428,Matadi,121.14
+5,GN2315419,Inkisi,Kongo-Central,232940,Kinshasa,93.87
+5,GN2314523,Kimpese,Kongo-Central,218326,Matadi,111.51
+5,GN2311127,Tshela,Kongo-Central,155051,Matadi,109.55
+5,GN2314937,Kenge,Kwango,129051,Kikwit,198.21
+5,GN2314705,Kikwit,Kwilu,616109,Kikwit,0.0
+5,GN2317397,Bandundu Province,Kwilu,294994,Inongo,184.47
+5,GN2315579,Idiofa,Kwilu,233668,Kikwit,86.29
+5,GN2316259,Bulungu,Kwilu,125584,Kikwit,60.03
+5,GN2313084,Mangai,Kwilu,25051,Kikwit,138.33
+5,GN2316091,Dibaya-Lubwe,Kwilu,101806,Kikwit,177.71
+5,GN2315417,Inongo,Maï-Ndombe,96992,Inongo,0.0
+5,GN2311968,Nioki,Maï-Ndombe,97525,Inongo,110.4
+5,GN2312249,Mushie,Maï-Ndombe,63254,Inongo,201.82
+5,GN2313874,Kutu,Maï-Ndombe,53497,Inongo,90.03
+5,GN217745,Bumba,Mongala,279136,Lisala,105.81
+5,GN211734,Lisala,Mongala,202989,Lisala,0.0
+5,GN218855,Binga,Mongala,43208,Lisala,115.89
+5,GN216404,Gbadolite,Nord-Ubangi,135860,Lisala,243.37
+5,GN2315728,Gemena,Sud-Ubangi,296599,Lisala,229.44
+5,GN218680,Boende,Tshuapa,131607,Lisala,279.62
+10,GN2312895,Mbandaka,Equateur,442973,Mbandaka,0.0
+10,GN2314302,Kinshasa,Kinshasa,1580394,Kinshasa,0.0
+10,GN2313002,Matadi,Kongo-Central,731239,Matadi,0.0
+10,GN2316702,Boma,Kongo-Central,358729,Matadi,45.31
+10,GN2312888,Mbanza-Ngungu,Kongo-Central,291513,Mbanza-Ngungu,0.0
+10,GN2312393,Moanda,Kongo-Central,433428,Moanda,0.0
+10,GN2315419,Inkisi,Kongo-Central,232940,Mbanza-Ngungu,25.88
+10,GN2314523,Kimpese,Kongo-Central,218326,Mbanza-Ngungu,58.04
+10,GN2311127,Tshela,Kongo-Central,155051,Matadi,109.55
+10,GN2314937,Kenge,Kwango,129051,Bandundu Province,170.0
+10,GN2314705,Kikwit,Kwilu,616109,Kikwit,0.0
+10,GN2317397,Bandundu Province,Kwilu,294994,Bandundu Province,0.0
+10,GN2315579,Idiofa,Kwilu,233668,Kikwit,86.29
+10,GN2316259,Bulungu,Kwilu,125584,Kikwit,60.03
+10,GN2313084,Mangai,Kwilu,25051,Kikwit,138.33
+10,GN2316091,Dibaya-Lubwe,Kwilu,101806,Kikwit,177.71
+10,GN2315417,Inongo,Maï-Ndombe,96992,Bandundu Province,184.47
+10,GN2311968,Nioki,Maï-Ndombe,97525,Bandundu Province,74.7
+10,GN2312249,Mushie,Maï-Ndombe,63254,Bandundu Province,60.81
+10,GN2313874,Kutu,Maï-Ndombe,53497,Bandundu Province,107.63
+10,GN217745,Bumba,Mongala,279136,Bumba,0.0
+10,GN211734,Lisala,Mongala,202989,Bumba,105.81
+10,GN218855,Binga,Mongala,43208,Gemena,127.0
+10,GN216404,Gbadolite,Nord-Ubangi,135860,Gemena,177.67
+10,GN2315728,Gemena,Sud-Ubangi,296599,Gemena,0.0
+10,GN218680,Boende,Tshuapa,131607,Boende,0.0
+15,GN2312895,Mbandaka,Equateur,442973,Mbandaka,0.0
+15,GN2314302,Kinshasa,Kinshasa,1580394,Kinshasa,0.0
+15,GN2313002,Matadi,Kongo-Central,731239,Matadi,0.0
+15,GN2316702,Boma,Kongo-Central,358729,Matadi,45.31
+15,GN2312888,Mbanza-Ngungu,Kongo-Central,291513,Mbanza-Ngungu,0.0
+15,GN2312393,Moanda,Kongo-Central,433428,Moanda,0.0
+15,GN2315419,Inkisi,Kongo-Central,232940,Mbanza-Ngungu,25.88
+15,GN2314523,Kimpese,Kongo-Central,218326,Mbanza-Ngungu,58.04
+15,GN2311127,Tshela,Kongo-Central,155051,Matadi,109.55
+15,GN2314937,Kenge,Kwango,129051,Kenge,0.0
+15,GN2314705,Kikwit,Kwilu,616109,Kikwit,0.0
+15,GN2317397,Bandundu Province,Kwilu,294994,Bandundu Province,0.0
+15,GN2315579,Idiofa,Kwilu,233668,Idiofa,0.0
+15,GN2316259,Bulungu,Kwilu,125584,Kikwit,60.03
+15,GN2313084,Mangai,Kwilu,25051,Idiofa,105.01
+15,GN2316091,Dibaya-Lubwe,Kwilu,101806,Idiofa,94.63
+15,GN2315417,Inongo,Maï-Ndombe,96992,Inongo,0.0
+15,GN2311968,Nioki,Maï-Ndombe,97525,Bandundu Province,74.7
+15,GN2312249,Mushie,Maï-Ndombe,63254,Bandundu Province,60.81
+15,GN2313874,Kutu,Maï-Ndombe,53497,Inongo,90.03
+15,GN217745,Bumba,Mongala,279136,Bumba,0.0
+15,GN211734,Lisala,Mongala,202989,Lisala,0.0
+15,GN218855,Binga,Mongala,43208,Lisala,115.89
+15,GN216404,Gbadolite,Nord-Ubangi,135860,Gbadolite,0.0
+15,GN2315728,Gemena,Sud-Ubangi,296599,Gemena,0.0
+15,GN218680,Boende,Tshuapa,131607,Boende,0.0

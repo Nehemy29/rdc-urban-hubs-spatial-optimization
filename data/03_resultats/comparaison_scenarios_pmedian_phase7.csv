@@ -1,0 +1,4 @@
+﻿scenario_p,nombre_poles,distance_moyenne_ponderee_km,distance_maximale_km,population_a_moins_100km_pct,population_a_moins_250km_pct,amelioration_vs_kinshasa_seule_pct,fonction_objectif_population_km
+5,5,80.44,279.62,57.41,98.21,81.92,592930677
+10,10,28.36,184.47,87.2,100.0,93.63,209023493
+15,15,12.58,115.89,96.97,100.0,97.17,92698650

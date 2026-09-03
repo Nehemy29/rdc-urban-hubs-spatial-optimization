@@ -1,0 +1,5 @@
+﻿element,definition
+Distribution des poids,"Dirichlet centrée sur les poids de référence, concentration 60"
+Sélection,Meilleur candidat de chaque province à chacune des 5 000 simulations
+Graine,"20260902, pour reproductibilité"
+Exposition hydrologique,Proxy: élevée si eau <=5 km et pente <=2 %; modérée si eau <=15 km et pente <=5 %; ne remplace pas une carte d'inondation

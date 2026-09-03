@@ -1,0 +1,6 @@
+﻿element,definition
+Demande,Population WorldPop 2025 estimée dans un rayon de 5 km autour de chaque agglomération
+Candidats,26 agglomérations existantes après suppression des doubles comptages
+Distance,Plus court chemin dans le graphe spatial exploratoire de la phase 6
+Algorithme,Construction gloutonne suivie d'échanges locaux jusqu'à stabilisation
+Statut scientifique,Scénarios de renforcement de pôles existants; pas encore localisation de villes nouvelles sur une grille continue

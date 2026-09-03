@@ -1,0 +1,5 @@
+﻿element,definition
+Construction,Arbre couvrant minimal complété par les trois voisins géographiques les plus proches de chaque nœud
+Arêtes,49 relations modélisées entre 26 nœuds; poids = distance géodésique
+Pondération du score,"25 % population, 25 % accessibilité populationnelle, 25 % intermédiarité, 25 % multimodalité"
+Interprétation,Diagnostic exploratoire; ne représente pas des flux de transport observés
