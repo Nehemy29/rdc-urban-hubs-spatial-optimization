@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce code ou ces résultats, veuillez citer ce dépôt."
+title: "Optimisation spatiale des pôles urbains en République démocratique du Congo"
+type: software
+authors:
+  - family-names: "MAYAMBO"
+    given-names: "Nehemie"
+repository-code: "https://github.com/Nehemy29/rdc-urban-hubs-spatial-optimization"
+version: 1.0.0
+date-released: 2026-09-03
+license: MIT
+keywords:
+  - data science spatiale
+  - optimisation territoriale
+  - réseaux multimodaux
+  - localisation-allocation
+  - p-médiane
+  - République démocratique du Congo
