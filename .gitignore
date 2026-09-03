@@ -1,0 +1,31 @@
+# Environnements Python
+.venv/
+.venv-repro/
+
+# Cache et fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Fichiers géospatiaux bruts ou lourds
+data/01_brutes/
+restored/*.tif
+restored/reseau_routier_zone.gpkg
+
+# Téléchargements incomplets et fichiers temporaires
+*.part
+*.tmp
+
+# Documents et contrôles de mise en page
+output/
+qa_*/
+*.pdf
+*.docx
+
+# Paramètres locaux et éditeurs
+.env
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
