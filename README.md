@@ -1,5 +1,7 @@
 # Prélocalisation de pôles urbains en RDC
 
+[![DOI](https://zenodo.org/badge/1356341190.svg)](https://doi.org/10.5281/zenodo.22287394)
+
 Code de réplication de l'étude exploratoire consacrée au système territorial
 interconnecté Grand Bandundu–Grand Équateur–Kinshasa–Kongo Central.
 
