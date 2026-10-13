@@ -1,0 +1,27 @@
+{
+  "producer": "UNEP-WCMC and IUCN",
+  "release": "WDPCA October 2026, protected-area view",
+  "access_date": "2026-10-07",
+  "endpoint": "https://data-gis.unep-wcmc.org/server/rest/services/ProtectedSites/The_World_Database_of_Protected_Areas/FeatureServer",
+  "raw_data_redistributed": false,
+  "layers": [
+    {
+      "layer": 0,
+      "records": 1,
+      "statuses": {
+        "Designated": 1
+      },
+      "sha256": "3435b3c82dd5f341fa1be38a9044bc20ec8e5e6a221f010725409795b3142f3e"
+    },
+    {
+      "layer": 1,
+      "records": 59,
+      "statuses": {
+        "Designated": 53,
+        "Inscribed": 5,
+        "Proposed": 1
+      },
+      "sha256": "d7a8b8ef6b45e01117ab4693a3b5dccdf00f0982f1076ef3c815ef70dfa7a1ac"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+OBJECTID,UNIFORM_ID,ADM2_NAME,ADM2_CODE,ADM3_NAME,ADM3_CODE,ROAD_ID,ROAD_NAME,START_NODE,END_NODE,LINK_NAME,RD_TYPE,LOCAL_CLS,LENGTH,ROAD_WIDTH,AADT_CODE,AADT_VALUE,AADT_SOURC,SURF_TYPE_,SURF_TYPE1,SURF_TYP_1,ROAD_COND_,ROAD_COND1,ROAD_CON_1,LANE_NB,AICD_REG,TAH
+331,326,Bas-Congo,2,Matadi,25,1,RN1,Matadi,Pont Mpozo,Matadi - Pont Mpozo,1,1,6.10212360522,-99,5,510,Office des Routes,2,Asphalt,PNUD,2,Bon,PNUD,-99,1.0,1.0
+352,347,Bas-Congo,2,Cataractes,6,1,RN1,Inkisi,Kinshasa (Cite verte),Matadi - Kinshasa (Cite verte),1,1,202.295999883,-99,5,966,Office des Routes,2,Asphalt,PNUD,2,Bon,PNUD,-99,1.0,1.0
+353,348,Kinshasa City,7,Kinshasa,14,1,RN1,Inkisi,Kinshasa (Cite verte),Matadi - Kinshasa (Cite verte),1,1,11.8720057001,-99,5,966,Office des Routes,2,Asphalt,PNUD,2,Bon,PNUD,-99,1.0,1.0
+354,349,Bas-Congo,2,Lukaya,21,1,RN1,Inkisi,Kinshasa (Cite verte),Matadi - Kinshasa (Cite verte),1,1,92.8337515787,-99,5,966,Office des Routes,2,Asphalt,PNUD,2,Bon,PNUD,-99,1.0,1.0
+355,350,Bas-Congo,2,Matadi,25,1,RN1,Inkisi,Kinshasa (Cite verte),Matadi - Kinshasa (Cite verte),1,1,12.0003073595,-99,5,966,Office des Routes,2,Asphalt,PNUD,2,Bon,PNUD,-99,1.0,1.0

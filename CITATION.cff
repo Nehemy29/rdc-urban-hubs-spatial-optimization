@@ -1,19 +1,17 @@
 cff-version: 1.2.0
-message: "Si vous utilisez ce code ou ces résultats, veuillez citer ce dépôt."
-title: "Optimisation spatiale des pôles urbains en République démocratique du Congo"
+message: "Citez cette révision et le commit utilisé. Le DOI de la nouvelle archive sera ajouté après sa publication effective."
+title: "Planning New Urban Hubs in Western Democratic Republic of the Congo through Conditional Location Optimization and an Assessment Framework for Functional Autonomy"
 type: software
 authors:
-  - family-names: "MAYAMBO"
-    given-names: "Nehemie"
-repository-code: "https://github.com/Nehemy29/rdc-hubs-urbains-optimisation-spatiale"
-doi: "10.5281/zenodo.22287394"
-version: 1.0.0
-date-released: 2026-09-03
+  - family-names: "PAMBOLO MAYAMBO"
+    given-names: "Néhémie"
+    orcid: "https://orcid.org/0009-0001-5168-273X"
+repository-code: "https://github.com/Nehemy29/rdc-urban-hubs-spatial-optimization"
+url: "https://github.com/Nehemy29/rdc-urban-hubs-spatial-optimization/tree/main/revision_joiv_20261012"
 license: MIT
 keywords:
-  - data science spatiale
-  - optimisation territoriale
-  - réseaux multimodaux
-  - localisation-allocation
-  - p-médiane
-  - République démocratique du Congo
+  - spatial data science
+  - conditional location allocation
+  - population coverage
+  - functional autonomy
+  - Democratic Republic of the Congo

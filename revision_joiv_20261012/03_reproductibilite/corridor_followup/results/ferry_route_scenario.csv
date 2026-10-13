@@ -1,0 +1,3 @@
+road_set,scenario,model_distance_km,reference_2018_km,reference_2024_via_Mongata_km,difference_vs_2024_pct,ferry_vertex_in_path,added_ferry_ways,added_synthetic_connections,operational_status_validated
+main,mapped_Bandundu_ferry_assumed_usable_bidirectional,398.9880121359479,490,405,-1.4844414479140977,True,3,0,False
+main_plus_tracks,mapped_Bandundu_ferry_assumed_usable_bidirectional,384.04376097230863,490,405,-5.174380006837376,True,3,0,False

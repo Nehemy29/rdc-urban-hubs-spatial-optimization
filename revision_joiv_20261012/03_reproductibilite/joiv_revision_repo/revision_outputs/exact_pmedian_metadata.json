@@ -1,0 +1,8 @@
+{
+  "demand_total": 7371525.750308432,
+  "demand_definition": "sum of released 5-km node-buffer population estimates, not the regional population",
+  "nodes": 26,
+  "edges": 49,
+  "distance": "released rounded edge distances in km",
+  "solver": "scipy.optimize.milp / HiGHS"
+}

@@ -1,0 +1,45 @@
+{
+  "method": "Exact functional ANOVA of complete categorical factorial table; independent uniform mass on the enumerated levels, separately for p=5,10,15",
+  "source_sha256": "50b278661121ef3c56f8aca3b9622f606dee904765fe68aac7a0fbafab4f56a2",
+  "factors": [
+    "product",
+    "resolution_km",
+    "tracks",
+    "connector_km",
+    "removal_fraction",
+    "jitter_km"
+  ],
+  "checks": [
+    {
+      "p": 5,
+      "n": 96,
+      "total_variance_pp2": 61.13541130443037,
+      "component_sum_pp2": 61.13541130443037,
+      "main_effect_share_pct": 99.13051516527614,
+      "interaction_share_pct": 0.8694848347238765
+    },
+    {
+      "p": 10,
+      "n": 96,
+      "total_variance_pp2": 45.72911051165148,
+      "component_sum_pp2": 45.72911051165147,
+      "main_effect_share_pct": 97.1858537298747,
+      "interaction_share_pct": 2.814146270125281
+    },
+    {
+      "p": 15,
+      "n": 96,
+      "total_variance_pp2": 39.540389327810594,
+      "component_sum_pp2": 39.540389327810594,
+      "main_effect_share_pct": 95.41559531212344,
+      "interaction_share_pct": 4.584404687876556
+    }
+  ],
+  "limits": [
+    "Scenario variance, not calibrated uncertainty or confidence intervals",
+    "Deletion and displacement each have one fixed realization per factorial level",
+    "Not a continuous-parameter Monte Carlo Sobol estimator",
+    "Speed uncertainty, road additions and environmental grid factors are outside this covering experiment",
+    "Total-effect shares overlap through interactions and must not be summed"
+  ]
+}

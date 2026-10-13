@@ -1,0 +1,5 @@
+scenario,routes_supplied,finite_comparisons,unavailable,mean_absolute_relative_difference_pct,median_absolute_relative_difference_pct,mean_signed_difference_km,mean_absolute_difference_km,root_mean_square_difference_km,threshold_disagreements_100km,model_within_osrm_outside_100km,model_outside_osrm_within_100km
+main_conditional_Bandundu_ferry,40,29,11,20.474171638157827,3.296117727295577,30.336911078638597,43.01560140350463,77.77367778086143,0,0,0
+main_road_only,40,29,11,24.72232982142918,3.296117727295577,40.88466303188302,53.563353356749076,107.34872424573577,0,0,0
+main_tracks_conditional_Bandundu_ferry,40,26,14,20.66629728361774,5.884556990279636,25.798369837337507,42.02978436044782,76.7625215885622,0,0,0
+main_tracks_road_only,40,26,14,24.74386870579133,5.884556990279636,35.92257192145231,52.153986444562626,103.50929185663524,0,0,0

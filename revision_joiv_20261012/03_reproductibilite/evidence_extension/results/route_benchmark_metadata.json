@@ -1,0 +1,10 @@
+{
+  "source_url": "https://logcluster.org/sites/default/files/public/maps/coddistcapittomajortown4l_20180906.pdf",
+  "reference_date": "2018-09-06",
+  "snapshot": "2026-10-05",
+  "triangle_check": "1051 > 355 + 490; excess 206 km",
+  "endpoint_definition": "released GeoNames hub points, not specified catalogue terminals",
+  "reference_mode": "published road distances, not GPS or observed use",
+  "no_calibrated_error_distribution": true,
+  "no_validation_of_population_coverage": true
+}

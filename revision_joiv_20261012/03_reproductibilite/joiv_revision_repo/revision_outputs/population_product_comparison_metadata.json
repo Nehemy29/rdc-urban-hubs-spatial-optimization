@@ -1,0 +1,16 @@
+{
+  "worldpop_total": 43302131.74066284,
+  "ghspop_total": 34033889.96602864,
+  "ghspop_vs_worldpop_pct": -21.403661672228637,
+  "positive_ghspop_cells_1km": 147956,
+  "positive_ghspop_cells_5km": 21120,
+  "cell_5km_pearson": 0.8713868250642843,
+  "cell_5km_spearman": 0.9305105678697244,
+  "sum_absolute_cell_difference": 23896670.506098725,
+  "limits": [
+    "both are modelled 2025 population products, not observations",
+    "native GHS pixel centres allocated to EPSG6933 bins; grid alignment affects local comparisons",
+    "same alternative regional boundary mask with pixel-centre inclusion",
+    "GHS SMOD is modelled settlement classification; no functional autonomy inferred"
+  ]
+}

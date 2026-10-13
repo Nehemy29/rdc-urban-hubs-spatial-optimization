@@ -1,0 +1,21 @@
+province,weights,nominal_candidate,nominal_locality,dominant_candidate,dominant_locality,dominant_frequency_pct,candidate_count
+Equateur,reference,C1190,Buanza,C1190,Buanza,49.4,3
+Kinshasa,reference,C0973,Komo,C0973,Komo,72.14,9
+Kongo-Central,reference,C0766,Kimpika,C0766,Kimpika,59.98,10
+Kwango,reference,C1166,Fumu-Mashi,C1166,Fumu-Mashi,95.46,10
+Kwilu,reference,C1518,Pana,C1518,Pana,74.1,10
+Maï-Ndombe,reference,C1043,Ebale,C1043,Ebale,98.18,10
+Mongala,reference,C2777,Amamba,C2777,Amamba,86.9,2
+Nord-Ubangi,reference,C2303,Bale Deuxième,C2303,Bale Deuxième,81.68,10
+Sud-Ubangi,reference,C1763,Bwamandema,C1763,Bwamandema,94.08,10
+Tshuapa,reference,C2758,Yanganga,C2758,Yanganga,100.0,1
+Equateur,uniform,C1952,Inganda,C1952,Inganda,82.76,3
+Kinshasa,uniform,C0973,Komo,C0973,Komo,85.9,9
+Kongo-Central,uniform,C0421,Vemadja,C0421,Vemadja,48.74,10
+Kwango,uniform,C1166,Fumu-Mashi,C1166,Fumu-Mashi,70.6,10
+Kwilu,uniform,C1847,Kiboba,C1847,Kiboba,92.0,10
+Maï-Ndombe,uniform,C1043,Ebale,C1043,Ebale,75.1,10
+Mongala,uniform,C2777,Amamba,C2777,Amamba,95.38,2
+Nord-Ubangi,uniform,C2303,Bale Deuxième,C2303,Bale Deuxième,54.66,10
+Sud-Ubangi,uniform,C1763,Bwamandema,C1763,Bwamandema,99.94,10
+Tshuapa,uniform,C2758,Yanganga,C2758,Yanganga,100.0,1

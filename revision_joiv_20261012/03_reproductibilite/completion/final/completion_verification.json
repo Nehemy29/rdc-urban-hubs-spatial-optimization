@@ -1,0 +1,11 @@
+{
+  "ghsl_component_count": 368,
+  "matched_hubs": 25,
+  "factorial_runs_used_for_attribution": 288,
+  "additional_covering_runs": 0,
+  "variance_sum_verified": true,
+  "native_population_grid_alignment_verified": true,
+  "source_archive_sha_verified": true,
+  "no_completed_consultation": true,
+  "no_compatible_empirical_validation": true
+}

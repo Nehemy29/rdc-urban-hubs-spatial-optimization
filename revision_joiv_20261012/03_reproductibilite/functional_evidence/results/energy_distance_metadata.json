@@ -1,0 +1,14 @@
+{
+  "retrieved_date": "2026-10-09",
+  "source_url": "https://datacatalogfiles.worldbank.org/ddh-published/0038470/1/DR0046995/cod_hv_network_2018.zip",
+  "catalog_url": "https://energydata.info/en/dataset/democratic-republic-congo-cod-transmission-network-2018",
+  "source_sha256": "97141acf98458d467d9d32d523df8eaea4ee3c0efcbc60945ec2aac5dfddfc25",
+  "source_features": 46,
+  "unique_selected_candidates": 38,
+  "scenario_count": 24,
+  "method": "Densify source linework at maximum 0.01-degree segment length, per-site WGS84 azimuthal equidistant projection, shortest planar point-to-line distance; approximate geometric proximity, not routed connection length.",
+  "epoch_note": "Dataset title refers to 2018; catalog release year 2021 and metadata update 2025 do not establish current operational status.",
+  "independence_note": "Catalogue describes DRC EASE mapping revised with SNEL specialists; it is an infrastructure context, not an independent validation of road coverage or energy reliability.",
+  "license": "CC BY 4.0",
+  "exclusions": "No inference of energization, connection, voltage compatibility, spare capacity, reliability, tariff or economic sovereignty."
+}

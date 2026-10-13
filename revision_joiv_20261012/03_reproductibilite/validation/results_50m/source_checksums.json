@@ -1,0 +1,22 @@
+{
+  "aicd.zip": {
+    "bytes": 2042812,
+    "sha256": "c882b5770dda891720139b406caed6d202988ba7270389ff55ad4c495772eaf5"
+  },
+  "hot_roads.zip": {
+    "bytes": 193072375,
+    "sha256": "e70623e58bc1f004ae143ca32d952421ffada78c302c2649b458ca183295c0b7"
+  },
+  "forest_roads.zip": {
+    "bytes": 41562804,
+    "sha256": "75d9dc60d0f0e557c3974b380b34b3128a4c9bfcd88283d0850160be08c41d59"
+  },
+  "aicd_metadata.pdf": {
+    "bytes": 296231,
+    "sha256": "bd7e4ea9e3d6b4869fddca1d1bb49a8081fd349fe343a07701966cf2a2be75ec"
+  },
+  "aicd_metadata.txt": {
+    "bytes": 19537,
+    "sha256": "f401a25f242cf945cc67632bec5046581706cb6380c720d25a9be8ebe4b32e90"
+  }
+}

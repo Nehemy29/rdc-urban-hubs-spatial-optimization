@@ -1,0 +1,17 @@
+[
+  {
+    "file": "LogisticsCluster_Kwamouth_20240418.pdf",
+    "url": "https://logcluster.org/sites/default/files/public/2024-04/codaccessconstraintcrisekwamouthmaindombea3l_20240418.pdf",
+    "bytes": 2083712,
+    "sha256": "8b292cf3fe750d401ab9b5db71c68223d1f6de2871dd8da72bd88f45f9f62eb2",
+    "retrieved": "2026-10-08"
+  },
+  {
+    "file": "osm_ferries_20261008.json",
+    "url": "https://overpass.kumi.systems/api/interpreter",
+    "bytes": 3429,
+    "sha256": "abe4c42a00f0f1e783df36b255f1fa114bd80526e3358653aee79fcf2bc6273f",
+    "retrieved": "2026-10-08",
+    "query": "[out:json][timeout:25];way[route=ferry](-3.7,17.0,-2.9,18.5);out geom;"
+  }
+]

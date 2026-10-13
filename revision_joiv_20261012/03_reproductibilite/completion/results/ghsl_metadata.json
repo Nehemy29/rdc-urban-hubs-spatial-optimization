@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "file": "GHS_SMOD_E2025_GLOBE_R2023A_54009_1000_V2_0.tif",
+      "sha256": "fd076785d1639a5ebf0b1ef2021d28c984cdba0c9e9d4839d64044531d34b7cc"
+    },
+    {
+      "file": "GHS_POP_E2025_GLOBE_R2023A_54009_1000_V1_0.tif",
+      "sha256": "db9cdc20a7ab6d383f63b10b70929887fbd96200452cd48e4b6515c1a52b0f75"
+    },
+    {
+      "file": "geoBoundaries-COD-ADM1.geojson",
+      "sha256": "3deb46256765a4ce78a2e8dadaf6f93f43869877e55d242d1e68139b45a5395a"
+    }
+  ],
+  "epoch": 2025,
+  "crs": "ESRI:54009",
+  "native_resolution_m": 1000,
+  "method": "Four-connected components of published native SMOD class 30, 23 and 22, labelled separately after COD cell-centre masking, before selecting components intersecting study-region cell centres. No arbitrary hub radius. Population sum of aligned native GHS-POP cells, including entire country-masked component.",
+  "components_by_class": {
+    "22": 139,
+    "23": 182,
+    "30": 47
+  },
+  "hubs_inside": 25,
+  "hubs_total": 26,
+  "limits": [
+    "Derived morphological classified-cell components; not official UCDB identifiers or functional urban areas",
+    "No commuter or institutional boundaries inferred",
+    "Country cell-centre masking and four-connectivity explicit; class22 and23 kept separate, not merged into a combined agglomeration",
+    "Class30 producer smoothing already encoded; no new smoothing applied",
+    "2025 population projections are modelled estimates, not validation observations",
+    "Rural hub points remain unmatched; no nearest-cluster forced assignment"
+  ]
+}

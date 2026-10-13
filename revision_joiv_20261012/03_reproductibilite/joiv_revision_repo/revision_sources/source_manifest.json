@@ -1,0 +1,66 @@
+[
+  {
+    "file": "JICA_PDTK_volume1_part1.pdf",
+    "url": "https://openjicareport.jica.go.jp/pdf/12340295_01.pdf",
+    "version": "JICA April 2019; surveys 2017",
+    "bytes": 17291629,
+    "sha256": "b0f5aa1a9b3f4845daa03afbbf8fe6347ade8ecf6e68902148bc38ea44108599",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "cod_pop_2025_CN_100m_R2025A_v1.tif",
+    "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2025/COD/v1/100m/constrained/cod_pop_2025_CN_100m_R2025A_v1.tif",
+    "version": "WorldPop 2025 R2025A v1 constrained alpha",
+    "bytes": 81321881,
+    "sha256": "141ab3637e858a3597b96b7646dbf6b4c7d258a89a60a5ffcde07f051a109d5e",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "geoBoundaries-COD-ADM1.geojson",
+    "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COD/ADM1/geoBoundaries-COD-ADM1.geojson",
+    "version": "COD-ADM1-28894549; represented 2017; ODbL 1.0",
+    "bytes": 5293887,
+    "sha256": "3deb46256765a4ce78a2e8dadaf6f93f43869877e55d242d1e68139b45a5395a",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "hotosm_cod_roads_osm_gpkg.zip.part",
+    "url": "https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/roads/hotosm_cod_roads_osm_gpkg.zip",
+    "version": "Geofabrik COD 2026-10-05 / HOT export 0.4.15",
+    "bytes": 193072375,
+    "sha256": "e70623e58bc1f004ae143ca32d952421ffada78c302c2649b458ca183295c0b7",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "GHS_POP_2025_1km.zip",
+    "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_POP_GLOBE_R2023A/GHS_POP_E2025_GLOBE_R2023A_54009_1000/V1-0/GHS_POP_E2025_GLOBE_R2023A_54009_1000_V1_0.zip",
+    "version": "GHS-POP R2023A 2025, 1 km, V1.0",
+    "bytes": 323340844,
+    "sha256": "cd630f51ac65dff2a0c7ad252333bbb20c5cf9de4d85eef04e22ef3699d80c95",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "GHS_SMOD_2025_1km.zip",
+    "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_SMOD_GLOBE_R2023A/GHS_SMOD_E2025_GLOBE_R2023A_54009_1000/V2-0/GHS_SMOD_E2025_GLOBE_R2023A_54009_1000_V2_0.zip",
+    "version": "GHS-SMOD R2023A 2025, 1 km, V2.0",
+    "bytes": 29624748,
+    "sha256": "1804f2aa9e7bfeea18ce87dc66442c174e2ba32764a4f6d2320e1b9e1cf152f8",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "cod_admin_boundaries.shp.zip",
+    "url": "https://data.humdata.org/dataset/f42132b9-8cc6-4201-b020-9259c56e8868/resource/7514482b-f7af-4654-8ea2-e8a34a6acb6a/download/cod_admin_boundaries.shp.zip",
+    "version": "COD-AB ADM1 v01 valid_on 2019-09-11",
+    "bytes": 21687863,
+    "sha256": "a819758bebacb042a167701c84e0a227c96ad9ee769b39dfa9d3ec70977161fd",
+    "access_date": "2026-10-06"
+  },
+  {
+    "file": "jica_appendices.pdf",
+    "url": "https://openjicareport.jica.go.jp/pdf/12340329_01.pdf",
+    "version": "JICA PDTK April2019 appendices",
+    "bytes": 11573464,
+    "sha256": "dff4b2445bb19a670c62519c51a2e769698a9b9d0dba5d4f0033d84231c8fc41",
+    "access_date": "2026-10-07"
+  }
+]

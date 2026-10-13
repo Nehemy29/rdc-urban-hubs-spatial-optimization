@@ -1,0 +1,17 @@
+{
+  "road_graph_source": "unchanged October 5 2026 HOT extract",
+  "ferry_source": "current OSM Overpass geometry retrieved Oct 8 2026",
+  "ferry_way_ids": [
+    "49809124",
+    "980566897",
+    "980566898"
+  ],
+  "geometry_join": "exact shared coordinates only; no geometric gap repair",
+  "new_assumptions": [
+    "Bandundu ferry usable and bidirectional",
+    "Distance cost only; waiting, fares, vehicle capacity, security and seasonal operations omitted"
+  ],
+  "independent_evidence": "Logistics Cluster April 18 2024 documents Bac Bandundu and RN17 access constraints; not current ferry verification",
+  "no_population_coverage_recalculation": true,
+  "no_empirical_error_calibration": true
+}

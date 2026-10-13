@@ -1,0 +1,27 @@
+{
+  "status": "computed",
+  "population_product": "WorldPop 2025 R2025A v1 constrained, alpha",
+  "boundary_product": "geoBoundaries COD ADM1 gbOpen boundaryID COD-ADM1-28894549",
+  "boundary_note": "alternative to COD-AB, do not interpret as identical administrative mask",
+  "provinces": [
+    "Kinshasa",
+    "Kongo-Central",
+    "Kwango",
+    "Kwilu",
+    "Mai-Ndombe",
+    "Mongala",
+    "Nord-Ubangi",
+    "Sud-Ubangi",
+    "Tshuapa",
+    "Équateur"
+  ],
+  "crs": "EPSG:6933",
+  "pixel_inclusion": "centre inside union of ten provinces; positive finite pixel counts only",
+  "original_selected_pixel_sum": 43302131.740662836,
+  "positive_source_pixels": 3651459,
+  "positive_cells_1km": 219279,
+  "positive_cells_5km": 24553,
+  "mass_conservation_relative_error": 1.720603651003945e-16,
+  "worldpop_sha256": "141ab3637e858a3597b96b7646dbf6b4c7d258a89a60a5ffcde07f051a109d5e",
+  "boundary_sha256": "3deb46256765a4ce78a2e8dadaf6f93f43869877e55d242d1e68139b45a5395a"
+}

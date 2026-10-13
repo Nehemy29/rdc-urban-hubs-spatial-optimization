@@ -1,0 +1,171 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 49809124,
+  "bounds": {
+    "minlat": -3.3107049,
+    "minlon": 17.3631662,
+    "maxlat": -3.3098015,
+    "maxlon": 17.3658666
+  },
+  "nodes": [
+    9070543131,
+    8016202157,
+    632923522,
+    5917734909
+  ],
+  "geometry": [
+    { "lat": -3.3107049, "lon": 17.3631662 },
+    { "lat": -3.3105449, "lon": 17.3638376 },
+    { "lat": -3.3101669, "lon": 17.3649776 },
+    { "lat": -3.3098015, "lon": 17.3658666 }
+  ],
+  "tags": {
+    "name": "Bac Bandundu",
+    "ref": "262",
+    "route": "ferry"
+  }
+},
+{
+  "type": "way",
+  "id": 49810901,
+  "bounds": {
+    "minlat": -3.3113005,
+    "minlon": 17.5865260,
+    "maxlat": -3.3077814,
+    "maxlon": 17.5903873
+  },
+  "nodes": [
+    632995953,
+    6482748084,
+    6482748985,
+    632995960
+  ],
+  "geometry": [
+    { "lat": -3.3113005, "lon": 17.5865260 },
+    { "lat": -3.3105626, "lon": 17.5867272 },
+    { "lat": -3.3085206, "lon": 17.5898771 },
+    { "lat": -3.3077814, "lon": 17.5903873 }
+  ],
+  "tags": {
+    "name": "Bac de Mondayi",
+    "ref": "266",
+    "route": "ferry"
+  }
+},
+{
+  "type": "way",
+  "id": 49811255,
+  "bounds": {
+    "minlat": -3.3820266,
+    "minlon": 18.0376806,
+    "maxlat": -3.3774352,
+    "maxlon": 18.0471642
+  },
+  "nodes": [
+    435964843,
+    4114506532
+  ],
+  "geometry": [
+    { "lat": -3.3820266, "lon": 18.0376806 },
+    { "lat": -3.3774352, "lon": 18.0471642 }
+  ],
+  "tags": {
+    "name": "Bac de Pinanga",
+    "note": "Bac disparu, route impraticable par véhicule",
+    "ref": "267",
+    "route": "ferry"
+  }
+},
+{
+  "type": "way",
+  "id": 50522201,
+  "bounds": {
+    "minlat": -3.3892231,
+    "minlon": 17.3977446,
+    "maxlat": -3.3839980,
+    "maxlon": 17.3982637
+  },
+  "nodes": [
+    3342032871,
+    9070934966,
+    9070934967,
+    9070934968,
+    3342032869
+  ],
+  "geometry": [
+    { "lat": -3.3839980, "lon": 17.3977446 },
+    { "lat": -3.3863394, "lon": 17.3979772 },
+    { "lat": -3.3888935, "lon": 17.3982309 },
+    { "lat": -3.3889147, "lon": 17.3982330 },
+    { "lat": -3.3892231, "lon": 17.3982637 }
+  ],
+  "tags": {
+    "ferry": "secondary",
+    "id": "15942",
+    "name": "Bac Buzala",
+    "note": "la route n'est pas en bon etat pour les véhicules faute d'entretien",
+    "ref": "RP214",
+    "route": "ferry",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 980566897,
+  "bounds": {
+    "minlat": -3.3109554,
+    "minlon": 17.3621150,
+    "maxlat": -3.3107049,
+    "maxlon": 17.3631662
+  },
+  "nodes": [
+    8016202159,
+    9070543131
+  ],
+  "geometry": [
+    { "lat": -3.3109554, "lon": 17.3621150 },
+    { "lat": -3.3107049, "lon": 17.3631662 }
+  ],
+  "tags": {
+    "name": "Bac Bandundu",
+    "ref": "262",
+    "route": "ferry"
+  }
+},
+{
+  "type": "way",
+  "id": 980566898,
+  "bounds": {
+    "minlat": -3.3109554,
+    "minlon": 17.3600647,
+    "maxlat": -3.3105129,
+    "maxlon": 17.3621150
+  },
+  "nodes": [
+    253045508,
+    8016202158,
+    8016202159
+  ],
+  "geometry": [
+    { "lat": -3.3105129, "lon": 17.3600647 },
+    { "lat": -3.3108732, "lon": 17.3606927 },
+    { "lat": -3.3109554, "lon": 17.3621150 }
+  ],
+  "tags": {
+    "name": "Bac Bandundu",
+    "ref": "262",
+    "route": "ferry"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "reference_fragment_count": 12798,
+  "reference_length_km": 2062.533133373794,
+  "forest_agreement_100m_main_pct": 4.907821,
+  "forest_agreement_100m_with_tracks_pct": 20.928087,
+  "max_quadrature_difference_pp": 0.11225222830692871,
+  "historical_positive_traffic_segments": 5,
+  "historical_distinct_traffic_values": 2,
+  "regional_coverage_validation_completed": false,
+  "fieldwork_or_expert_consultation_completed": false,
+  "raw_external_archives_redistributed": false
+}

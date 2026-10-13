@@ -1,0 +1,27 @@
+{
+  "status": "computed",
+  "population_product": "WorldPop 2025 R2025A v1 constrained, alpha",
+  "boundary_product": "COD-AB ADM1 v01, valid_on 2019-09-11",
+  "boundary_note": "COD-AB boundary sensitivity comparison; not used in road coverage optimization",
+  "provinces": [
+    "Kinshasa",
+    "Kongo-Central",
+    "Kwango",
+    "Kwilu",
+    "Mai-Ndombe",
+    "Mongala",
+    "Nord-Ubangi",
+    "Sud-Ubangi",
+    "Tshuapa",
+    "Équateur"
+  ],
+  "crs": "EPSG:6933",
+  "pixel_inclusion": "centre inside union of ten provinces; positive finite pixel counts only",
+  "original_selected_pixel_sum": 43227817.79641058,
+  "positive_source_pixels": 3639493,
+  "positive_cells_1km": 218415,
+  "positive_cells_5km": 24391,
+  "mass_conservation_relative_error": 3.447123161300308e-16,
+  "worldpop_sha256": "141ab3637e858a3597b96b7646dbf6b4c7d258a89a60a5ffcde07f051a109d5e",
+  "boundary_sha256": "a819758bebacb042a167701c84e0a227c96ad9ee769b39dfa9d3ec70977161fd"
+}

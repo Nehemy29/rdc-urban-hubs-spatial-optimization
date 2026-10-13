@@ -1,0 +1,23 @@
+{
+  "abstract_word_count": 237,
+  "paragraph_word_count_including_references": 5823,
+  "references": 32,
+  "recent_2020_2025_references": 23,
+  "recent_share_pct": 71.875,
+  "figures": 4,
+  "tables": 8,
+  "exact_joint_runs": 288,
+  "all_joint_status_zero": true,
+  "all_joint_mip_gap_zero": true,
+  "compressed_population_files_integrity": "passed",
+  "population_mass_conservation": "passed",
+  "field_or_regional_flow_validation": "not performed",
+  "old_zenodo_revision_contents": "revision not included in original v1.0.0",
+  "all_derived_gzip_integrity": "passed",
+  "manuscript_pages": 9,
+  "reviewer_response_pages": 3,
+  "supplement_pages": 5,
+  "all_table_grid_widths_mm": 86.3,
+  "all_figure_widths_mm": 85.4,
+  "all_32_reference_numbers_cited": true
+}

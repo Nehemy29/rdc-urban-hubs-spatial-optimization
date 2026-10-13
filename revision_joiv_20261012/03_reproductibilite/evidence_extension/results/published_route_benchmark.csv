@@ -1,0 +1,13 @@
+road_set,origin,destination,published_distance_km,reference_date,reference_type,origin_offset_km,destination_offset_km,mapped_path_exists,model_distance_km,signed_difference_km,relative_difference_pct,reference_triangle_violation,included_in_empirical_calibration
+main,Kinshasa,Matadi,355,2018-09-06,published_logistics_catalogue_not_GPS,0.013836416114552238,0.004484913463254186,True,336.02616235000676,-18.973837649993243,-5.344742999998098,False,False
+main,Kinshasa,Bandundu Province,490,2018-09-06,published_logistics_catalogue_not_GPS,0.013836416114552238,0.009362298296071303,True,922.6208243042097,432.6208243042097,88.28996414371626,False,False
+main,Matadi,Kinshasa,355,2018-09-06,published_logistics_catalogue_not_GPS,0.004484913463254186,0.013836416114552238,True,336.0119965716205,-18.9880034283795,-5.348733360106905,False,False
+main,Matadi,Bandundu Province,1051,2018-09-06,published_logistics_catalogue_not_GPS,0.004484913463254186,0.009362298296071303,True,1245.4076185560154,194.40761855601545,18.497394724644668,True,False
+main,Bandundu Province,Kinshasa,490,2018-09-06,published_logistics_catalogue_not_GPS,0.009362298296071303,0.013836416114552238,True,922.5443726829329,432.54437268293293,88.27436177202712,False,False
+main,Bandundu Province,Matadi,1051,2018-09-06,published_logistics_catalogue_not_GPS,0.009362298296071303,0.004484913463254186,True,1245.415928325286,194.4159283252859,18.49818537823844,True,False
+main_plus_tracks,Kinshasa,Matadi,355,2018-09-06,published_logistics_catalogue_not_GPS,0.013836416114552238,0.004484913463254186,True,334.9153273884942,-20.084672611505823,-5.657654256762202,False,False
+main_plus_tracks,Kinshasa,Bandundu Province,490,2018-09-06,published_logistics_catalogue_not_GPS,0.013836416114552238,0.009362298296071303,True,879.8857535150429,389.8857535150429,79.56852112551896,False,False
+main_plus_tracks,Matadi,Kinshasa,355,2018-09-06,published_logistics_catalogue_not_GPS,0.004484913463254186,0.013836416114552238,True,334.9011616101078,-20.098838389892194,-5.661644616871042,False,False
+main_plus_tracks,Matadi,Bandundu Province,1051,2018-09-06,published_logistics_catalogue_not_GPS,0.004484913463254186,0.009362298296071303,True,1201.2017676581243,150.20176765812425,14.291319472704501,True,False
+main_plus_tracks,Bandundu Province,Kinshasa,490,2018-09-06,published_logistics_catalogue_not_GPS,0.009362298296071303,0.013836416114552238,True,879.8093018937656,389.80930189376556,79.5529187538297,False,False
+main_plus_tracks,Bandundu Province,Matadi,1051,2018-09-06,published_logistics_catalogue_not_GPS,0.009362298296071303,0.004484913463254186,True,1201.2100774273983,150.21007742739835,14.292110126298606,True,False

@@ -1,0 +1,38 @@
+{
+  "boundary": "geoBoundaries common ten-province mask",
+  "grid_origin": "EPSG6933 global zero; centres=(index+0.5)*step",
+  "grid_km": [
+    10,
+    25
+  ],
+  "protected_database": "UNEP-WCMC and IUCN WDPCA October 2026 protected-area view, site_type PA",
+  "polygon_records_cod": 59,
+  "point_records_cod": 1,
+  "included_status": [
+    "Designated",
+    "Inscribed",
+    "Established"
+  ],
+  "proposed_records": "not included",
+  "masked_modes": [
+    "candidate centre within polygon",
+    "full square cell intersects polygon or reported-area point buffer"
+  ],
+  "forest_modes": [
+    "strict exclude WorldCover10",
+    "allow WorldCover10 solely as upper-bound sensitivity; no inference of forest degradation"
+  ],
+  "worldcover": "ESA WorldCover2021v200 native point samples",
+  "weights": "assumed six-variable reference vs uniform; no expert elicitation",
+  "unknown_landcover": 0,
+  "errors": [],
+  "limits": [
+    "no slope/parcel audit for new grid",
+    "no forest integrity class",
+    "tree-allowed candidates are not recommendations",
+    "point buffers approximate reported area; not legal boundary",
+    "population potential is a kernel, not observed flows",
+    "no tenure or capacity validation",
+    "protected polygon coordinates and attributes excluded from public package"
+  ]
+}

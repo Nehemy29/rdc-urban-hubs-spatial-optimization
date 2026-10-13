@@ -1,85 +1,56 @@
-# Prélocalisation de pôles urbains en RDC
+# Localisation conditionnelle de nouveaux pôles urbains en RDC
 
-[![DOI](https://zenodo.org/badge/1356341190.svg)](https://doi.org/10.5281/zenodo.22287394)
+Code, données dérivées et documents de la révision JOIV n° 6222 préparée le 12 octobre 2026 pour le système interconnecté Grand Bandundu–Grand Équateur–Kinshasa–Kongo Central.
 
-Code de réplication de l'étude exploratoire consacrée au système territorial
-interconnecté Grand Bandundu–Grand Équateur–Kinshasa–Kongo Central.
+## Version actuelle et portée scientifique
 
-## Statut scientifique
+La révision ajoute un modèle de couverture de population fondé sur les routes cartographiées. Les 26 pôles existants sont conservés et des centres supplémentaires sont optimisés sur des grilles de candidats de 10 et 25 km. Les 24 optimisations de nouveaux centres complètent 408 expériences antérieures de couverture. La p-médiane et le graphe MST antérieurs sont conservés comme audits, pas comme résultats principaux validés.
 
-Le pipeline produit des scénarios de prélocalisation à partir de données ouvertes.
-Les distances du graphe, les temps de parcours, les flux potentiels et les sites
-candidats ne constituent pas des observations de terrain ni des décisions de
-construction. Les limites sont détaillées dans l'article.
+Les nouveaux secteurs sont des localisations conditionnelles pour étude, pas des parcelles constructibles ou des villes dont la souveraineté serait démontrée. L’héritage colonial demeure un contexte historique; aucun effet causal colonial n’est estimé.
 
-## Résultats reproduits
+Le complément des 40 trajets fournit 160 comparaisons sur quatre variantes du graphe. Le réseau principal fournit 29 distances comparables et 11 trajets sans chemin dirigé. L’écart absolu relatif moyen avec OSRM est 24,72 %, la médiane 3,30 %. Deux distances commerciales sont vérifiées sur la page citée, mais leur méthode de mesure et leur indépendance ne sont pas établies. Les références OSRM partagent la provenance OSM : il ne s’agit pas d’une validation indépendante de terrain. Les valeurs manquantes et écarts défavorables sont conservés.
 
-- sélection de 26 nœuds analytiques et agrégation WorldPop à 5 km ;
-- accessibilité routière et multimodale ;
-- graphe spatial exploratoire et centralités ;
-- scénarios p-médiane pour `p = 5`, `10` et `15` ;
-- grille de candidats de 25 km ;
-- filtrage WorldCover/SRTM ;
-- 5 000 simulations Monte Carlo avec la graine `20260902`.
+La validation empirique de la couverture régionale, l’opérationnalité des transports, les distributions d’erreur calibrées et les fonctions économiques et énergétiques locales restent partielles ou absentes. Aucun entretien d’expert ou flux observé n’est inventé. La réponse aux reviewers distingue explicitement les demandes traitées et les preuves encore manquantes.
 
-## Installation
+## Où trouver les fichiers actuels
 
-Python 3.12 est recommandé.
+Tout le dossier finalisé est dans [revision_joiv_20261012](revision_joiv_20261012/).
 
-```bash
-python -m venv .venv
-python -m pip install -r requirements.txt
-```
+- [Article révisé](revision_joiv_20261012/01_manuscrit/JOIV_revised_manuscript.docx) et son PDF : 17 pages, 24 tableaux, 6 figures, 47 références.
+- [Réponse aux neuf remarques](revision_joiv_20261012/02_reponse/JOIV_response_to_reviewers.docx).
+- [Code et données dérivées](revision_joiv_20261012/03_reproductibilite/).
+- [Comparaison finale des 40 trajets](revision_joiv_20261012/03_reproductibilite/route_comparison_40/results/comparaison_routes_40_finale.csv).
+- [Guide de renvoi et compléments](revision_joiv_20261012/04_sources_et_notes/).
+- [Instructions actualisées](revision_joiv_20261012/03_reproductibilite/LATEST_README.md) et [statut des réponses](revision_joiv_20261012/03_reproductibilite/STATUS_REVIEWERS.md).
 
-Sous Windows PowerShell :
+Les anciennes entrées document_inputs et finalization/inputs sont conservées pour reconstruire les amendements. Les anciens scripts à la racine et README_VERSION_1.md décrivent la version initiale; ils ne reconstruisent pas seuls l’article révisé.
+
+## Installation sous Windows
+
+Depuis la racine du dépôt, dans CMD ou PowerShell :
 
 ```powershell
-.\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
+py -m venv .venv
+.venv\Scripts\python.exe -m pip install -r revision_joiv_20261012/03_reproductibilite/route_comparison_40/requirements.txt
 ```
 
-## Données nécessaires
+Pour les 40 trajets, suivre [le protocole détaillé](revision_joiv_20261012/03_reproductibilite/route_comparison_40/README_FR.md). Il documente le téléchargement de l’archive routière exacte, son SHA256, le GeoPackage, les règles du graphe et les commandes. Les couches brutes lourdes ne sont pas toutes incluses. L’archive routière originale fait environ 193 Mo; sa version doit respecter l’empreinte enregistrée.
 
-Les fichiers tiers lourds ne sont pas redistribués dans le dépôt. Ils doivent être
-placés aux emplacements décrits dans `data/README.md`. Les résultats dérivés légers
-peuvent être conservés sous `data/03_resultats`.
+Pour exporter à nouveau le tableau final à partir des calculs fournis :
 
-## Exécution
-
-Reconstruction depuis les sources (utiliser l'URL affichée sur la fiche officielle
-du produit WorldPop retenu) :
-
-```bash
-python run_pipeline.py --from-scratch --worldpop-url "URL_DU_GEOTIFF"
+```powershell
+cd revision_joiv_20261012/03_reproductibilite
+..\..\.venv\Scripts\python.exe route_comparison_40/export_final_csv.py
 ```
 
-Avec le cache environnemental fourni :
+Les graphes complets atteignent 1,7 à 2,5 millions de sommets. Prévoir suffisamment de mémoire. Les autres modules documentent leurs propres dépendances et données.
 
-```bash
-python run_pipeline.py
-```
+## Citation et archivage
 
-Pour interroger à nouveau ESA WorldCover et OpenTopoData :
+Citer les métadonnées de CITATION.cff et préciser le commit utilisé. L’archive Zenodo historique [v1.0.0](https://doi.org/10.5281/zenodo.22287394) précède ces révisions et ne contient pas les nouveaux calculs. Aucun DOI de nouvelle version n’est annoncé. La création d’une release GitHub v2.0.0 et la vérification de son archivage Zenodo constituent l’étape suivante; actualiser la citation du manuscrit uniquement après attribution effective du nouveau DOI.
 
-```bash
-python run_pipeline.py --refresh-environment
-```
+## Licences et provenance
 
-## Provenance et état de reproductibilité
+Le code original est sous MIT. Les données tierces gardent leurs licences et conditions : notamment OpenStreetMap/HOT sous ODbL, les sources Banque mondiale selon les métadonnées fournies et les protections institutionnelles selon leurs conditions. Ne pas interpréter MIT comme une licence générale de toutes les données. Les limites de redistribution sont précisées dans les modules; les sources restreintes ne sont pas ajoutées automatiquement.
 
-La phase 1 télécharge GeoNames et recherche les ressources courantes dans le
-catalogue HDX; elle consigne URL, taille et SHA-256 dans
-`data/provenance_manifest.json`. La phase 2 sélectionne les dix provinces par code
-administratif et extrait les routes. Les phases 3 à 10 produisent les résultats.
-
-Le pipeline a été exécuté intégralement avec Python 3.12.13 dans un environnement
-virtuel neuf. `scripts/verify_results.py` contrôle automatiquement les principaux
-résultats annoncés dans l'article. Les services externes peuvent néanmoins changer
-ou être indisponibles; le manifeste identifie alors les fichiers utilisés.
-
-## Limite à signaler
-
-Le GeoPackage HOT/OSM des voies d'eau daté du 1er septembre 2026 échoue au contrôle
-SQLite malgré une archive ZIP valide. Le pipeline utilise donc automatiquement la
-ressource GeoJSON équivalente du même catalogue et du même snapshot. Ce choix est
-tracé et ne modifie pas les 5 277 segments retenus dans la zone d'étude.
+SHA256SUMS.txt dans le dossier de révision couvre ses fichiers distribués. Les sous-modules conservent aussi les empreintes des sources et états historiques. Les tests numériques sont des vérifications de calcul, pas une preuve d’accessibilité observée.

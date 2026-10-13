@@ -1,0 +1,45 @@
+{
+  "completed_scenarios_per_p": 96,
+  "total_optimization_runs": 288,
+  "objective": "maximize modelled population within 100 km road+assumed connector distance",
+  "candidate_set": "26 existing GeoNames urban nodes, not proposed new cities",
+  "factors": {
+    "population": [
+      "WorldPop2025",
+      "GHSPOP2025"
+    ],
+    "grid_km": [
+      1,
+      5
+    ],
+    "tracks": [
+      false,
+      true
+    ],
+    "connector_km": [
+      1,
+      2.5,
+      5
+    ],
+    "road_feature_removal_fraction": [
+      0,
+      0.01
+    ],
+    "hub_coordinate_displacement_km": [
+      0,
+      0.25
+    ]
+  },
+  "perturbation_seed": 20261006,
+  "removal_method": "one independent uniform draw per selected road feature; fixed sample for each graph scenario; not calibrated OSM incompleteness",
+  "coordinate_method": "fixed 250 m displacement with independent random azimuth per hub; stress test not positional error distribution",
+  "limits": [
+    "scenario ranges are not confidence intervals",
+    "objective differs from legacy p-median",
+    "alternative population masks and products are modelled",
+    "equal-objective site sets may be nonunique; reported identities are one optimum",
+    "not a Sobol decomposition",
+    "no travel speeds because no travel-time claims",
+    "no observed-flow validation"
+  ]
+}

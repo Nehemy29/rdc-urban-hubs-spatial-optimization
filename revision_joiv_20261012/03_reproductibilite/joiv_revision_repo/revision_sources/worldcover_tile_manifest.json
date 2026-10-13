@@ -1,0 +1,114 @@
+[
+  {
+    "tile": "N00E015",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N00E015_Map.tif",
+    "bytes": 8291184,
+    "sha256": "89af6d334e58f8019cb64bb68cfd7ff1fb07c28540d6268eae9e78deae4b2e51",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "N00E018",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N00E018_Map.tif",
+    "bytes": 21029438,
+    "sha256": "0dec7e10ae20c713a7224a9f65526c2166681d7113741e2c6a659997685e93f6",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "N00E021",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N00E021_Map.tif",
+    "bytes": 22522133,
+    "sha256": "c599d0e2670ab6ebf76326ad29f0095b56eb06752db8da7f1391438697799eea",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "N03E018",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N03E018_Map.tif",
+    "bytes": 81198858,
+    "sha256": "26cbc3f1446bae7dd3edfc5d7d4be9ea8028afb3cad242ae6c443e811729f553",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "N03E021",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N03E021_Map.tif",
+    "bytes": 54951210,
+    "sha256": "0818eba69c5fe3c3f1015c5ebc65f28043ee211523a40ff0ba4c321298bbfe8b",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S03E015",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S03E015_Map.tif",
+    "bytes": 44426218,
+    "sha256": "1b4991dd6c1f0585e74885a823b68c421dfc7f5be6b9f8e0824458dbaa634f70",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S03E018",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S03E018_Map.tif",
+    "bytes": 10018208,
+    "sha256": "27bb7981b806d0274ff5dad220f580cf8e06d86e2cb5e508a94f8b1999226f78",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S03E021",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S03E021_Map.tif",
+    "bytes": 5680391,
+    "sha256": "486aa2b6d2df37896807731f0d957649bb4ff40a8cff5206ae0164ef1e3d595e",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S03E024",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S03E024_Map.tif",
+    "bytes": 11127646,
+    "sha256": "d60a08b624970468c0d8dec4cff701cb467cede29fe1cb8119824e21f6aca53e",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S06E012",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S06E012_Map.tif",
+    "bytes": 79498900,
+    "sha256": "7ac37f74bf2c32bfa87819f3df75b2409579f4770f3e2809580f0a100d095482",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S06E015",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S06E015_Map.tif",
+    "bytes": 103314257,
+    "sha256": "dc1fb8ce71c5fd761ad1ef306ace97a8111216aefc79b630f08f9504e8caa9ae",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S06E018",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S06E018_Map.tif",
+    "bytes": 75566208,
+    "sha256": "213412b7a870520722412c59e09a099248bde088fe55cd1026050085d8448d44",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S09E015",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S09E015_Map.tif",
+    "bytes": 105892989,
+    "sha256": "6033c776f2b66117f15b563aa0429a8afb9f6c993da15740ff949b814081e611",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  },
+  {
+    "tile": "S09E018",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_S09E018_Map.tif",
+    "bytes": 104169416,
+    "sha256": "5f0e07b325e5a5ed8e7a372fa7c38472d3395b93f39cf9bace9999fe8727f68f",
+    "version": "ESA WorldCover2021v200",
+    "access_date": "2026-10-07"
+  }
+]

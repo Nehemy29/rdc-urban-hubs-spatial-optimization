@@ -1,0 +1,796 @@
+{
+  "fine_population": {
+    "dc.title": [
+      "Fine-grained population mapping from coarse census counts and open geodata"
+    ],
+    "dc.source": [
+      "Scientific Reports 2022 12:1"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      "Nature Publishing Group"
+    ],
+    "dc.date": [
+      "2022-11-22"
+    ],
+    "dc.type": [
+      "OriginalPaper"
+    ],
+    "dc.language": [
+      "En"
+    ],
+    "dc.copyright": [
+      "2022 The Author(s)"
+    ],
+    "dc.rights": [
+      "2022 The Author(s)"
+    ],
+    "dc.rightsAgent": [
+      "journalpermissions@springernature.com"
+    ],
+    "dc.description": [
+      "Fine-grained population maps are needed in several domains, like urban planning, environmental monitoring, public health, and humanitarian operations. Unfortunately, in many countries only aggregate census counts over large spatial units are collected, moreover, these are not always up-to-date. We present Pomelo, a deep learning model that employs coarse census counts and open geodata to estimate fine-grained population maps with $$100\\,$$ m ground sampling distance. Moreover, the model can also estimate population numbers when no census counts at all are available, by generalizing across countries. In a series of experiments for several countries in sub-Saharan Africa, the maps produced with Pomelo are in good agreement with the most detailed available reference counts: disaggregation of coarse census counts reaches $$R^2$$ values of 85\u201389%; unconstrained prediction in the absence of any counts reaches 48\u201369%."
+    ],
+    "citation_pdf_url": [
+      "https://www.nature.com/articles/s41598-022-24495-w.pdf"
+    ],
+    "citation_fulltext_html_url": [
+      "https://www.nature.com/articles/s41598-022-24495-w"
+    ],
+    "citation_journal_title": [
+      "Scientific Reports"
+    ],
+    "citation_journal_abbrev": [
+      "Sci Rep"
+    ],
+    "citation_publisher": [
+      "Nature Publishing Group"
+    ],
+    "citation_issn": [
+      "2045-2322"
+    ],
+    "citation_title": [
+      "Fine-grained population mapping from coarse census counts and open geodata"
+    ],
+    "citation_volume": [
+      "12"
+    ],
+    "citation_issue": [
+      "1"
+    ],
+    "citation_online_date": [
+      "2022/11/22"
+    ],
+    "citation_firstpage": [
+      "20085"
+    ],
+    "citation_article_type": [
+      "Article"
+    ],
+    "citation_language": [
+      "en"
+    ],
+    "dc.identifier": [
+      "doi:10.1038/s41598-022-24495-w"
+    ],
+    "citation_doi": [
+      "10.1038/s41598-022-24495-w"
+    ],
+    "citation_springer_api_url": [
+      "http://api.springer.com/xmldata/jats?q=doi:10.1038/s41598-022-24495-w&api_key="
+    ],
+    "dc.creator": [
+      "Metzger, Nando",
+      "Vargas-Mu\u00f1oz, John E.",
+      "Daudt, Rodrigo C.",
+      "Kellenberger, Benjamin",
+      "Whelan, Thao Ton-That",
+      "Ofli, Ferda",
+      "Imran, Muhammad",
+      "Schindler, Konrad",
+      "Tuia, Devis"
+    ],
+    "dc.subject": [
+      "Environmental sciences",
+      "Environmental social sciences"
+    ],
+    "citation_reference": [
+      "citation_journal_title=Eur. Plan. Stud.; citation_title=Urban planning and sustainable development; citation_author=P Naess; citation_volume=9; citation_publication_date=2001; citation_pages=503-524; citation_doi=10.1080/09654310120049871; citation_id=CR1",
+      "citation_journal_title=Eur. J. Remote Sens.; citation_title=Earth observation tools and services to increase the effectiveness of humanitarian assistance; citation_author=S Lang; citation_volume=53; citation_publication_date=2019; citation_pages=67-85; citation_doi=10.1080/22797254.2019.1684208; citation_id=CR2",
+      "Maas, P. et al. Facebook disaster maps: Aggregate insights for crisis response & recovery. In ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Vol. 19, 3173 (2019).",
+      "citation_journal_title=Int. J. Health Geograph.; citation_title=Gridded population survey sampling: A systematic scoping review of the field and strategic research agenda; citation_author=DR Thomson, DA Rhoda, AJ Tatem, MC Castro; citation_volume=19; citation_publication_date=2020; citation_pages=1-16; citation_doi=10.1186/s12942-020-00230-4; citation_id=CR4",
+      "citation_journal_title=IEEE Geosci. Remote Sens. Mag.; citation_title=OpenStreetMap: Challenges and opportunities in machine learning and remote sensing; citation_author=JE Vargas-Mu\u00f1oz, S Srivastava, D Tuia, AX Falc\u00e3o; citation_volume=9; citation_publication_date=2020; citation_pages=184-199; citation_doi=10.1109/MGRS.2020.2994107; citation_id=CR5",
+      "citation_journal_title=PLoS ONE; citation_title=Disaggregating census data for population mapping using random forests with remotely-sensed and ancillary data; citation_author=FR Stevens, AE Gaughan, C Linard, AJ Tatem; citation_volume=10; citation_publication_date=2015; citation_pages=e0107042; citation_doi=10.1371/journal.pone.0107042; citation_id=CR6",
+      "citation_journal_title=Remote Sens. Environ.; citation_title=Census-independent population mapping in northern Nigeria; citation_author=EM Weber; citation_volume=204; citation_publication_date=2018; citation_pages=786-798; citation_doi=10.1016/j.rse.2017.09.024; citation_id=CR7",
+      "citation_journal_title=PLoS ONE; citation_title=Methods for determining the uncertainty of population estimates derived from satellite imagery and limited survey data: a case study of Bo City, Sierra Leone; citation_author=R Hillson; citation_volume=9; citation_publication_date=2014; citation_doi=10.1371/journal.pone.0112241; citation_id=CR8",
+      "citation_journal_title=Proc. Natl. Acad. Sci.; citation_title=National population mapping from sparse survey data: A hierarchical Bayesian modeling framework to account for uncertainty; citation_author=DR Leasure, WC Jochem, EM Weber, V Seaman, AJ Tatem; citation_volume=117; citation_publication_date=2020; citation_pages=24173-24179; citation_doi=10.1073/pnas.1913050117; citation_id=CR9",
+      "citation_journal_title=Big Earth Data; citation_title=A 100 m population grid in the CONUS by disaggregating census data with open-source microsoft building footprints; citation_author=X Huang, C Wang, Z Li, H Ning; citation_volume=5; citation_publication_date=2021; citation_pages=112-133; citation_doi=10.1080/20964471.2020.1776200; citation_id=CR10",
+      "Freire, S., MacManus, K., Pesaresi, M., Doxsey-Whitfield, E. & Mills, J. Development of new open and free multi-temporal global population grids at 250 m resolution. Association of Geographic Information Laboratories in Europe (AGILE) (2016).",
+      "citation_journal_title=PLoS ONE; citation_title=Empiric recommendations for population disaggregation under different data scenarios; citation_author=M Sapena; citation_volume=17; citation_publication_date=2022; citation_pages=e0274504; citation_doi=10.1371/journal.pone.0274504; citation_id=CR12",
+      "Tiecke, T.\u00a0G. et\u00a0al. Mapping the world population one building at a time. arXiv preprint \n                  arXiv:1712.05839\n                  \n                 (2017).",
+      "citation_journal_title=Geograph. Anal.; citation_title=A spatially disaggregated areal interpolation model using light detection and ranging-derived building volumes; citation_author=H Sridharan, F Qiu; citation_volume=45; citation_publication_date=2013; citation_pages=238-258; citation_doi=10.1111/gean.12010; citation_id=CR14",
+      "citation_journal_title=Environ. Plan. A; citation_title=Street-weighted interpolation techniques for demographic count estimation in incompatible zone systems; citation_author=M Reibel, ME Bufalino; citation_volume=37; citation_publication_date=2005; citation_pages=127-139; citation_doi=10.1068/a36202; citation_id=CR15",
+      "citation_journal_title=Photogramm. Eng. Remote Sens.; citation_title=LandScan: A global population database for estimating populations at risk; citation_author=JE Dobson, EA Bright, PR Coleman, RC Durfee, BA Worley; citation_volume=66; citation_publication_date=2000; citation_pages=849-857; citation_id=CR16",
+      "citation_journal_title=Nature; citation_title=Deep learning; citation_author=Y LeCun, Y Bengio, G Hinton; citation_volume=521; citation_publication_date=2015; citation_pages=436-444; citation_doi=10.1038/nature14539; citation_id=CR17",
+      "Gervasoni, L., Fenet, S., Perrier, R. & Sturm, P. Convolutional neural networks for disaggregated population mapping using open data. In IEEE Conference on Data Science and Advanced Analytics (DSAA) 594\u2013603 (2018).",
+      "Jacobs, N., Kraft, A., Rafique, M.\u00a0U. & Sharma, R.\u00a0D. A weakly supervised approach for estimating spatial density functions from high-resolution satellite imagery. In ACM SIGSPATIAL Conference on Advances in Geographic Information Systems 33\u201342 (2018).",
+      "Diebel, J. & Thrun, S. An application of Markov random fields to range sensing. In Advances in Neural Information Processing Systems (2006).",
+      "Hui, T.-W., Loy, C.\u00a0C. & Tang, X. Depth map super-resolution by deep multi-scale guidance. In European Conference on Computer Vision (ECCV) 353\u2013369 (2016).",
+      "de Lutio, R., D\u2019Aronco, S., Wegner, J.\u00a0D. & Schindler, K. Guided super-resolution as pixel-to-pixel transformation. In IEEE/CVF International Conference on Computer Vision (ICCV) (2019).",
+      "Worldpop. \n                  http://www.worldpop.org\n                  \n                 (2022) (Accessed 20 June 2022).",
+      "citation_journal_title=Prof. Geogr.; citation_title=Generating surface models of population using dasymetric mapping; citation_author=J Mennis; citation_volume=55; citation_publication_date=2003; citation_pages=31-42; citation_id=CR24",
+      "citation_journal_title=Data; citation_title=Improving urban population distribution models with very-high resolution satellite information; citation_author=T Grippa; citation_volume=4; citation_publication_date=2019; citation_pages=13; citation_doi=10.3390/data4010013; citation_id=CR25",
+      "QGIS Development Team. QGIS Geographic Information System, Version 3.14. Open Source Geospatial Foundation (2009).",
+      "OpenStreetMap contributors. Data retrieved from \n                  https://planet.osm.org\n                  \n                , \n                  https://www.openstreetmap.org\n                  \n                 (2022).",
+      "European Space Agency. Sentinel-2.",
+      "Meta. Facebook data for good high resolution population density maps (2022).",
+      "citation_journal_title=Remote Sens. Environ.; citation_title=Google earth engine: Planetary-scale geospatial analysis for everyone; citation_author=N Gorelick; citation_volume=202; citation_publication_date=2017; citation_pages=18-27; citation_doi=10.1016/j.rse.2017.06.031; citation_id=CR30",
+      "Sirko, W. et\u00a0al. Continental-scale building detection from high resolution satellite imagery. arXiv preprint \n                  arXiv:2107.12283\n                  \n                 (2021).",
+      "Dooley, C., Leasure, D. & Tatem, A. Gridded maps of building patterns throughout sub-Saharan Africa, version 1.1. Tech. Rep., (University of Southampton, 2020).",
+      "citation_journal_title=ISPRS J. Photogramm. Remote Sens.; citation_title=Correcting rural building annotations in OpenStreetMap using convolutional neural networks; citation_author=JE Vargas-Mu\u00f1oz, S Lobry, AX Falc\u00e3o, D Tuia; citation_volume=147; citation_publication_date=2019; citation_pages=283-293; citation_doi=10.1016/j.isprsjprs.2018.11.010; citation_id=CR33",
+      "citation_journal_title=Comput. Environ. Urban Syst.; citation_title=Annually modelling built-settlements between remotely-sensed observations using relative changes in subnational populations and lights at night; citation_author=JJ Nieves; citation_volume=80; citation_publication_date=2020; citation_pages=101444; citation_doi=10.1016/j.compenvurbsys.2019.101444; citation_id=CR34",
+      "citation_journal_title=Remote Sens.; citation_title=Predicting near-future built-settlement expansion using relative changes in small area populations; citation_author=JJ Nieves; citation_volume=12; citation_publication_date=2020; citation_pages=1545; citation_doi=10.3390/rs12101545; citation_id=CR35",
+      "citation_journal_title=Sci. Rep.; citation_title=Census-independent population estimation using representation learning; citation_author=I Neal, S Seth, G Watmough, MS Diallo; citation_volume=12; citation_publication_date=2022; citation_pages=1-12; citation_doi=10.1038/s41598-022-08935-1; citation_id=CR36",
+      "citation_journal_title=PLoS ONE; citation_title=The world\u2019s user-generated road map is more than 80% complete; citation_author=C Barrington-Leigh, A Millard-Ball; citation_volume=12; citation_publication_date=2017; citation_pages=e0180698; citation_doi=10.1371/journal.pone.0180698; citation_id=CR37",
+      "citation_journal_title=Mach. Learn.; citation_title=Random forests; citation_author=L Breiman; citation_volume=45; citation_publication_date=2001; citation_pages=5-32; citation_doi=10.1023/A:1010933404324; citation_id=CR38",
+      "citation_journal_title=Remote Sens. Environ.; citation_title=World settlement footprint 3D\u2014a first three-dimensional survey of the global building stock; citation_author=T Esch; citation_volume=270; citation_publication_date=2022; citation_pages=112877; citation_doi=10.1016/j.rse.2021.112877; citation_id=CR39",
+      "Meta. Facebook Marketing API (2022).",
+      "Fatehkia, M., Coles, B., Ofli, F. & Weber, I. The relative value of Facebook advertising data for poverty mapping. In AAAI Conference on Web and Social Media 934\u2013938 (2020).",
+      "Leasure, D.\u00a0R. et\u00a0al. Ukraine crisis: Monitoring population displacement through social media activity. SocArXiv, \n                  https://doi.org/10.31235/osf.io/6j9wq\n                  \n                 (2022).",
+      "citation_journal_title=Proc. Asia-Pac. Adv. Netw.; citation_title=Why VIIRS data are superior to DMSP for mapping nighttime lights; citation_author=CD Elvidge, KE Baugh, M Zhizhin, F-C Hsu; citation_volume=35; citation_publication_date=2013; citation_pages=62; citation_id=CR43",
+      "citation_journal_title=IEEE Trans. Geosci. Remote Sens.; citation_title=An overview and comparison of smooth labeling methods for land-cover classification; citation_author=C Corbane, A Florczyk, M Pesaresi, P Politis, V Syrris; citation_publication_date=2018; citation_doi=10.2905/jrc-ghsl-10007; citation_id=CR44",
+      "Farr, T.\u00a0G. et\u00a0al. The shuttle radar topography mission. Rev. Geophys. 45 (2007).",
+      "citation_journal_title=Remote Sens.; citation_title=Compilation and validation of SAR and optical data products for a complete and global map of inland/ocean water tailored to the climate modeling community; citation_author=C Lamarche; citation_volume=9; citation_publication_date=2017; citation_pages=36; citation_doi=10.3390/rs9010036; citation_id=CR46",
+      "UNEP-WCMC & IUCN. Protected Planet: The World Database on Protected Areas (WDPA) (2021).",
+      "Humanitarian data exchange. \n                  https://data.humdata.org/\n                  \n                 (2022) (Accessed 20 June 2022).",
+      "citation_journal_title=Natl. Sci. Rev.; citation_title=A brief introduction to weakly supervised learning; citation_author=Z-H Zhou; citation_volume=5; citation_publication_date=2018; citation_pages=44-53; citation_doi=10.1093/nsr/nwx106; citation_id=CR49",
+      "citation_journal_title=J. Mach. Learn. Res.; citation_title=Dropout: A simple way to prevent neural networks from overfitting; citation_author=N Srivastava, G Hinton, A Krizhevsky, I Sutskever, R Salakhutdinov; citation_volume=15; citation_publication_date=2014; citation_pages=1929-1958; citation_id=CR50",
+      "Kingma, D.\u00a0P. & Ba, J. Adam: A method for stochastic optimization. International Conference on Learning Representations (ICLR) (2014).",
+      "citation_journal_title=J. R. Stat. Soc.; citation_title=On the statistical analysis of dirty pictures; citation_author=J Besag; citation_volume=68; citation_publication_date=1986; citation_pages=259-302; citation_id=CR52",
+      "citation_journal_title=IEEE Trans. Big Data; citation_title=Billion-scale similarity search with GPUs; citation_author=J Johnson, M Douze, H J\u00e9gou; citation_volume=7; citation_publication_date=2019; citation_pages=535-547; citation_doi=10.1109/TBDATA.2019.2921572; citation_id=CR53",
+      "Ronneberger, O., Fischer, P. & Brox, T. U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical Image Computing and Computer-assisted Intervention 234\u2013241 (2015)."
+    ],
+    "citation_author": [
+      "Metzger, Nando",
+      "Vargas-Mu\u00f1oz, John E.",
+      "Daudt, Rodrigo C.",
+      "Kellenberger, Benjamin",
+      "Whelan, Thao Ton-That",
+      "Ofli, Ferda",
+      "Imran, Muhammad",
+      "Schindler, Konrad",
+      "Tuia, Devis"
+    ],
+    "citation_author_institution": [
+      "ETH Zurich, Zurich\n, Switzerland",
+      "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, \nLausanne, Switzerland",
+      "ETH Zurich, Zurich\n, Switzerland",
+      "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, \nLausanne, Switzerland",
+      "Yale University, \nNew Haven, USA",
+      "International Committee of the Red Cross, Geneva\n, Switzerland",
+      "Hamad Bin Khalifa University, \nAr-Rayyan, Qatar",
+      "Hamad Bin Khalifa University, \nAr-Rayyan, Qatar",
+      "ETH Zurich, Zurich\n, Switzerland",
+      "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne, \nLausanne, Switzerland"
+    ]
+  },
+  "roadless": {
+    "dc.title": [
+      "Mapping roadless areas in regions with contrasting human footprint"
+    ],
+    "dc.source": [
+      "Scientific Reports 2024 14:1"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      "Nature Publishing Group"
+    ],
+    "dc.date": [
+      "2024-02-27"
+    ],
+    "dc.type": [
+      "OriginalPaper"
+    ],
+    "dc.language": [
+      "En"
+    ],
+    "dc.copyright": [
+      "2024 The Author(s)"
+    ],
+    "dc.rights": [
+      "2024 The Author(s)"
+    ],
+    "dc.rightsAgent": [
+      "journalpermissions@springernature.com"
+    ],
+    "dc.description": [
+      "In an increasingly human- and road-dominated world, the preservation of functional ecosystems has become highly relevant. While the negative ecological impacts of roads on ecosystems are numerous and well documented, roadless areas have been proposed as proxy for functional ecosystems. However, their potential remains underexplored, partly due to the incomplete mapping of roads. We assessed the accuracy of roadless areas identification using freely available road-data in two regions with contrasting levels of anthropogenic influence: boreal Canada and temperate Central Europe (Poland, Slovakia, Czechia, and Hungary). Within randomly selected circular plots (per region and country), we visually examined the completeness of road mapping using OpenStreetMap 2020 and assessed whether human influences affect mapping quality using four variables. In boreal Canada, roads were completely mapped in 3% of the plots, compared to 40% in Central Europe. Lower Human Footprint Index and road density values were related to greater incompleteness in road mapping. Roadless areas, defined as areas at least 1 km away from any road, covered 85% of the surface in boreal Canada (mean size\u2009\u00b1\u2009s.d.\u2009=\u2009272\u2009\u00b1\u200912,197 km2), compared to only 0.4% in temperate Central Europe (mean size\u2009\u00b1\u2009s.d.\u2009=\u20090.6\u2009\u00b1\u20093.1 km2). By visually interpreting and manually adding unmapped roads in 30 randomly selected roadless areas from each study country, we observed a similar reduction in roadless surface in both Canada and Central Europe (27% vs 28%) when all roads were included. This study highlights the urgent need for improved road mapping techniques to support research on roadless areas as conservation targets and surrogates of functional ecosystems."
+    ],
+    "citation_pdf_url": [
+      "https://www.nature.com/articles/s41598-024-55283-3.pdf"
+    ],
+    "citation_fulltext_html_url": [
+      "https://www.nature.com/articles/s41598-024-55283-3"
+    ],
+    "citation_journal_title": [
+      "Scientific Reports"
+    ],
+    "citation_journal_abbrev": [
+      "Sci Rep"
+    ],
+    "citation_publisher": [
+      "Nature Publishing Group"
+    ],
+    "citation_issn": [
+      "2045-2322"
+    ],
+    "citation_title": [
+      "Mapping roadless areas in regions with contrasting human footprint"
+    ],
+    "citation_volume": [
+      "14"
+    ],
+    "citation_issue": [
+      "1"
+    ],
+    "citation_online_date": [
+      "2024/02/27"
+    ],
+    "citation_firstpage": [
+      "4722"
+    ],
+    "citation_article_type": [
+      "Article"
+    ],
+    "citation_language": [
+      "en"
+    ],
+    "dc.identifier": [
+      "doi:10.1038/s41598-024-55283-3"
+    ],
+    "citation_doi": [
+      "10.1038/s41598-024-55283-3"
+    ],
+    "citation_springer_api_url": [
+      "http://api.springer.com/xmldata/jats?q=doi:10.1038/s41598-024-55283-3&api_key="
+    ],
+    "dc.creator": [
+      "Hoffmann, Monika T.",
+      "Ostapowicz, Katarzyna",
+      "Barto\u0144, Kamil",
+      "Ibisch, Pierre L.",
+      "Selva, Nuria"
+    ],
+    "dc.subject": [
+      "Conservation biology",
+      "Environmental impact"
+    ],
+    "citation_reference": [
+      "citation_journal_title=Sci. Adv.; citation_title=Habitat fragmentation and its lasting impact on Earth's ecosystems; citation_author=NM Haddad; citation_volume=1; citation_publication_date=2015; citation_doi=10.1126/sciadv.1500052; citation_id=CR1",
+      "citation_journal_title=Environ. Res. Lett.; citation_title=Thirty years of connectivity conservation planning: An assessment of factors influencing plan implementation; citation_author=AT Keeley; citation_volume=14; citation_publication_date=2019; citation_doi=10.1088/1748-9326/ab3234; citation_id=CR2",
+      "citation_journal_title=Science; citation_title=A global map of roadless areas and their conservation status; citation_author=PL Ibisch; citation_volume=354; citation_publication_date=2016; citation_pages=1423-1427; citation_doi=10.1126/science.aaf7166; citation_id=CR3",
+      "citation_journal_title=Nature; citation_title=A global strategy for road building; citation_author=WF Laurance; citation_volume=513; citation_publication_date=2014; citation_pages=229-232; citation_doi=10.1038/nature13717; citation_id=CR4",
+      "Selva, N., Switalski, A., Kreft, S. & Ibisch, P. L. Why keep areas road-free? The importance of roadless areas. In Handbook of Road Ecology (eds. Van Der Ree, R., Smith, D.J. & Grilo, C.). 16\u201326 (Wiley, 2015).",
+      "citation_journal_title=Biol. Conserv.; citation_title=Conservation policy under a roadless perspective: Minimizing fragmentation in Greece; citation_author=V Kati; citation_volume=252; citation_publication_date=2020; citation_doi=10.1016/j.biocon.2020.108828; citation_id=CR6",
+      "citation_journal_title=Annu. Rev. Ecol. Syst.; citation_title=Roads and their major ecological effects; citation_author=RTT Forman, LE Alexander; citation_volume=29; citation_publication_date=1998; citation_pages=207-231; citation_doi=10.1146/annurev.ecolsys.29.1.207; citation_id=CR7",
+      "citation_journal_title=Biol. Conserv.; citation_title=How much habitat is enough?; citation_author=L Fahrig; citation_volume=100; citation_publication_date=2001; citation_pages=65-74; citation_doi=10.1016/S0006-3207(00)00208-1; citation_id=CR8",
+      "citation_journal_title=Environ. Manag.; citation_title=Roadless and low-traffic areas as conservation targets in Europe; citation_author=N Selva; citation_volume=48; citation_publication_date=2011; citation_pages=865-877; citation_doi=10.1007/s00267-011-9751-z; citation_id=CR9",
+      "citation_journal_title=Science; citation_title=Roads to riches or ruin?; citation_author=WF Laurance, IB Arrea; citation_volume=358; citation_issue=6362; citation_publication_date=2017; citation_pages=442-444; citation_doi=10.1126/science.aao0312; citation_id=CR10",
+      "citation_journal_title=Biol. Conserv.; citation_title=Roads, deforestation, and the mitigating effect of protected areas in the Amazon; citation_author=CP Barber, MA Cochrane, CM Souza, WF Laurance; citation_volume=177; citation_publication_date=2014; citation_pages=203-209; citation_doi=10.1016/j.biocon.2014.07.004; citation_id=CR11",
+      "citation_journal_title=Biotropica; citation_title=Impacts of logging roads on tropical forests; citation_author=F Kleinschroth, JR Healey; citation_volume=49; citation_publication_date=2017; citation_pages=620-635; citation_doi=10.1111/btp.12462; citation_id=CR12",
+      "citation_journal_title=Dev. Policy Rev.; citation_title=Roads to poverty reduction? Exploring rural roads' impact on mobility in Africa and Asia; citation_author=DF Bryceson, A Bradbury, T Bradbury; citation_volume=26; citation_publication_date=2008; citation_pages=459-482; citation_doi=10.1111/j.1467-7679.2008.00418.x; citation_id=CR13",
+      "citation_journal_title=R. Soc. Open Sci.; citation_title=The scaling structure of the global road network; citation_author=E Strano; citation_volume=4; citation_publication_date=2017; citation_doi=10.1098/rsos.170590; citation_id=CR14",
+      "citation_journal_title=Curr. Biol.; citation_title=Economic, socio-political and environmental risks of road development in the tropics; citation_author=M Alamgir; citation_volume=27; citation_publication_date=2017; citation_pages=R1130-R1140; citation_doi=10.1016/j.cub.2017.08.067; citation_id=CR15",
+      "citation_journal_title=Nat. Sustain.; citation_title=Environmental challenges for the belt and road initiative; citation_author=F Ascens\u00e3o; citation_volume=1; citation_publication_date=2018; citation_pages=206-209; citation_doi=10.1038/s41893-018-0059-3; citation_id=CR16",
+      "citation_journal_title=Nature; citation_title=Land use: A global map of road building; citation_author=WF Laurance, A Balmford; citation_volume=495; citation_publication_date=2013; citation_pages=308-309; citation_doi=10.1038/495308a; citation_id=CR17",
+      "citation_journal_title=Curr. Biol.; citation_title=Reducing the global environmental impacts of rapid infrastructure expansion; citation_author=WF Laurance; citation_volume=25; citation_publication_date=2015; citation_pages=259-262; citation_doi=10.1016/j.cub.2015.02.050; citation_id=CR18",
+      "IUCN, 2022. Technical Note Series No. 10. Consideration of Remoteness to the Design and Protection of Wilderness Areas. \n                  https://www.iucn.org/sites/default/files/2022-11/10_iucn_wcpa_technical_note_series_no._10.pdf\n                  \n                . Accessed 10 Apr 2022.",
+      "citation_journal_title=Science; citation_title=Greek roadless policy: A model for Europe; citation_author=V Kati, N Selva, P Sj\u00f6gren-Gulve; citation_volume=375; citation_publication_date=2022; citation_pages=984-984; citation_doi=10.1126/science.abo2014; citation_id=CR20",
+      "Dulac, J. Global Land Transport Infrastructure Requirements. Estimating Road and Railway Infrastructure Capacity and Costs to 2050 (International Energy Agency, 2013).",
+      "citation_journal_title=Trends Ecol. Evolut.; citation_title=Conservation and the global infrastructure tsunami: Disclose, debate, delay!; citation_author=WF Laurance; citation_volume=33; citation_publication_date=2018; citation_pages=568-571; citation_doi=10.1016/j.tree.2018.05.007; citation_id=CR22",
+      "Hoffmann, M. T., Kreft, S., Vassiliki, K. & Ibisch, P. L. Roadless areas as key approach of conservation of functional forest ecosystems. In Encyclopedia of the World's Biomes (eds. Goldstein, M. I. & DellaSala, D. A.). 237\u2013248 (Elsevier Inc., 2020).",
+      "citation_journal_title=J. Appl. Ecol.; citation_title=Assessing the value of roadless areas in a conservation reserve strategy: Biodiversity and landscape connectivity in the northern Rockies; citation_author=MR Crist, BO Wilmer, GH Aplet; citation_volume=42; citation_publication_date=2005; citation_pages=181-191; citation_doi=10.1111/j.1365-2664.2005.00996.x; citation_id=CR24",
+      "citation_journal_title=J. Soil Water Conserv.; citation_title=Roadless areas and clean water; citation_author=DA DellaSala, JR Karr, DM Olson; citation_volume=66; citation_publication_date=2011; citation_pages=78A-84A; citation_doi=10.2489/jswc.66.3.78A; citation_id=CR25",
+      "citation_journal_title=Environ. Res. Lett.; citation_title=Global patterns of current and future road infrastructure; citation_author=JR Meijer, MA Huijbregts, KC Schotten, AM Schipper; citation_volume=13; citation_publication_date=2018; citation_doi=10.1088/1748-9326/aabd42; citation_id=CR26",
+      "Nachmany, Y. & Alemohammad, H. Detecting roads from satellite imagery in the developing world. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 83\u201389 (2019).",
+      "citation_journal_title=Remote Sens.; citation_title=Deep learning with open data for desert road mapping; citation_author=C Stewart, M Lazzarini, A Luna, S Albani; citation_volume=12; citation_issue=14; citation_publication_date=2020; citation_pages=2274; citation_doi=10.3390/rs12142274; citation_id=CR28",
+      "citation_journal_title=Remote Sens.; citation_title=Mapping roads in the Brazilian Amazon with artificial intelligence and Sentinel-2; citation_author=J Botelho, SC Costa, JG Ribeiro, CM Souza; citation_volume=14; citation_publication_date=2022; citation_pages=3625; citation_doi=10.3390/rs14153625; citation_id=CR29",
+      "citation_journal_title=Int. J. Pattern Recognit. Artif. Intell.; citation_title=Mapping road based on multiple features and B-GVF snake; citation_author=F Wang, Y Li; citation_volume=34; citation_publication_date=2020; citation_pages=2050035; citation_doi=10.1142/S0218001420500354; citation_id=CR30",
+      "Center for International Earth Science Information Network (CIESIN). Global Roads Open Access Data Set, Version1 (gROADS), v1 (1980\u20132010). NASA Socioeconomic Data and Applications Center (SEDAC). \n                  https://sedac.ciesin.columbia.edu/data/set/groads-global-roads-open-access-v1\n                  \n                 Accessed 15 Apr 2020 (2020).",
+      "Geofabrik. \n                  http://www.geofabrik.de\n                  \n                . OpenStreetMap ODbL. Accessed 20 Feb 2020 (2020).",
+      "citation_journal_title=PloS ONE; citation_title=The world\u2019s user-generated road map is more than 80% complete; citation_author=C Barrington-Leigh, A Millard-Ball; citation_volume=12; citation_publication_date=2017; citation_doi=10.1371/journal.pone.0180698; citation_id=CR33",
+      "Zhang, H. & Malczewski, J. Quality evaluation of volunteered geographic information: The case of OpenStreetMap. In Volunteered Geographic Information and the Future of Geospatial Data (eds. Campelo, C., Bertolotto, M. & Corcoran, P.). 19\u201346 (IGI Global, 2017).",
+      "citation_journal_title=Conserv. Sci. Pract.; citation_title=Identifying differences in roadless areas in Canada based on global, national, and regional road datasets; citation_author=LG Poley, R Schuster, W Smith, JC Ray; citation_volume=4; citation_publication_date=2022; citation_doi=10.1111/csp2.12656; citation_id=CR35",
+      "Nelson, A. Travel time to cities and ports in the year 2015. Figshare. Dataset. \n                  https://doi.org/10.6084/m9.figshare.7638134.v4\n                  \n                . Accessed 15 Apr 2022 (2019).",
+      "Venter, O. et al. 2018. Last of the Wild Project, Version 3 (LWP-3): 2009 Human Footprint, 2018 Release. Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). \n                  https://doi.org/10.7927/H46T0JQ4\n                  \n                . Accessed: 15 Apr 2022 (2022).",
+      "Kennedy, C. M., Oakleaf, J. R., Theobald, D. M., Baruch\u2010Mordo, S. & Kiesecker, J. Global human modification. Figshare. Dataset. https://doi.org/10.6084/m9.figshare.7283087.v1 (2018). Accessed: 15 Apr 2022 (2022).",
+      "citation_journal_title=Geomatica; citation_title=Exploring five indicators for the quality of OpenStreetMap road networks: A case study of Qu\u00e9bec, Canada; citation_author=M Moradi, S Roche, MA Mostafavi; citation_volume=75; citation_publication_date=2022; citation_pages=178-208; citation_doi=10.1139/geomat-2021-0012; citation_id=CR39",
+      "citation_journal_title=ISPRS Int. J. Geo-Inf.; citation_title=An investigation into the completeness of, and the updates to, OpenStreetMap data in a heterogeneous area in Brazil; citation_author=SP Camboim, JVM Bravo, CR Sluter; citation_volume=4; citation_publication_date=2015; citation_pages=1366-1388; citation_doi=10.3390/ijgi4031366; citation_id=CR40",
+      "citation_journal_title=Open Geospat. Data Softw. Stand.; citation_title=OpenStreetMap history for intrinsic quality assessment: Is OSM up-to-date?; citation_author=M Minghini, F Frassinelli; citation_volume=4; citation_publication_date=2019; citation_pages=1-17; citation_doi=10.1186/s40965-019-0067-x; citation_id=CR41",
+      "Zielstra, D. & Zipf, A. A comparative study of proprietary geodata and volunteered geographic information for Germany. In 13th AGILE International Conference on Geographic Information Science, Guimaraes, Portugal (2010).",
+      "citation_journal_title=Trans. GIS; citation_title=OpenStreetMap quality assessment using unsupervised machine learning methods; citation_author=KT Jacobs, SW Mitchell; citation_volume=24; citation_issue=5; citation_publication_date=2020; citation_pages=1280-1298; citation_doi=10.1111/tgis.12680; citation_id=CR43",
+      "citation_journal_title=Int. J. Geospat. Environ. Res.; citation_title=Accuracy evaluation of the Canadian OpenStreetMap road networks; citation_author=H Zhang, J Malczewski; citation_volume=5; citation_publication_date=2018; citation_pages=73; citation_id=CR44",
+      "citation_journal_title=Biol. Conserv.; citation_title=Is the impact of loggings in the last primeval lowland forest in Europe underestimated? The conservation issues of Bia\u0142owie\u017ca Forest; citation_author=G Mikusi\u0144ski; citation_volume=227; citation_publication_date=2018; citation_pages=266-274; citation_doi=10.1016/j.biocon.2018.09.001; citation_id=CR45",
+      "citation_journal_title=Issues Ecol.; citation_title=The ecology of rural roads: Effects, management, and research; citation_author=AW Coffin; citation_volume=23; citation_publication_date=2021; citation_pages=1-35; citation_id=CR46",
+      "citation_title=Detecting Roads from Space; citation_publication_date=2022; citation_id=CR47; citation_author=T Keijzer; citation_author=A Schipper; citation_author=J Meijer; citation_author=W Nijland; citation_publisher=PBL Netherlands Environmental Assessment Agency",
+      "citation_journal_title=Remote Sens.; citation_title=Object-based classification of abandoned logging roads under heavy canopy using LiDAR; citation_author=J Sherba, L Blesius, J Davis; citation_volume=6; citation_publication_date=2014; citation_pages=4043-4060; citation_doi=10.3390/rs6054043; citation_id=CR48",
+      "citation_journal_title=For. Ecol. Manag.; citation_title=Impacts of modern mechanised skidding on the natural and cultural heritage of the Polish Carpathian Mountains; citation_author=AN Affek, M Zachwatowicz, A Sosnowska, A Gerl\u00e9e, K Kiszka; citation_volume=405; citation_publication_date=2017; citation_pages=391-403; citation_doi=10.1016/j.foreco.2017.09.047; citation_id=CR49",
+      "citation_journal_title=IEEE Access; citation_title=Automatic generation of road maps from low quality GPS trajectory data via structure learning; citation_author=J Huang; citation_volume=6; citation_publication_date=2018; citation_pages=71965-71975; citation_doi=10.1109/ACCESS.2018.2882581; citation_id=CR50",
+      "citation_journal_title=Connect. Sci.; citation_title=Extracting road maps from high-resolution satellite imagery using refined DSE-LinkNet; citation_author=P Das, S Chand; citation_volume=33; citation_publication_date=2021; citation_pages=278-295; citation_doi=10.1080/09540091.2020.1807466; citation_id=CR51",
+      "citation_journal_title=IEEE Geosci. Remote Sens. Mag.; citation_title=OpenStreetMap: Challenges and opportunities in machine learning and remote sensing; citation_author=JE Vargas-Munoz, S Srivastava, D Tuia, AX Falcao; citation_volume=9; citation_publication_date=2020; citation_pages=184-199; citation_doi=10.1109/MGRS.2020.2994107; citation_id=CR52",
+      "Basu, S., Bonafilia, D., Gill, J., Kirsanov, D., & Yang, D. Mapping roads through deep learning and weakly supervisedtraining. Meta AI Research ML Applications blog. \n                  https://ai.facebook.com/blog/mapping-roads-through-deep-learning-and-weakly-supervised-training/\n                  \n                . Accessed 19 May 2023 (2019).",
+      "citation_journal_title=IEEE Trans. Geosci. Remote Sens.; citation_title=Road detection and centerline extraction via deep recurrent convolutional neural network U-Net; citation_author=X Yang; citation_volume=57; citation_issue=9; citation_publication_date=2015; citation_pages=7209-7220; citation_doi=10.1109/TGRS.2019.2912301; citation_id=CR54",
+      "citation_journal_title=Eur. J. Remote Sens.; citation_title=A new road extraction method using Sentinel-1 SAR images based on the deep fully convolutional neural network; citation_author=Q Zhang; citation_volume=52; citation_publication_date=2019; citation_pages=572-582; citation_doi=10.1080/22797254.2019.1694447; citation_id=CR55",
+      "citation_journal_title=Science; citation_title=Roads threaten conservation status in developing countries (electronic response to Ibisch et al. 2016) A global map of roadless areas and their conservation status; citation_author=S Liu, FR Cheng; citation_volume=354; citation_issue=1423\u20131427; citation_publication_date=2016; citation_pages=2017; citation_doi=10.1126/science.aaf7166); citation_id=CR56",
+      "citation_journal_title=Science; citation_title=Global roadless areas: Hidden roads; citation_author=AC Hughes; citation_volume=355; citation_issue=13; citation_publication_date=2017; citation_pages=81-1381; citation_doi=10.1126/science.aam6995; citation_id=CR57",
+      "citation_journal_title=Trends Ecol. Evolut.; citation_title=Impacts of roads and linear clearings on tropical forests; citation_author=WF Laurance, M Goosem, SG Laurance; citation_volume=24; citation_publication_date=2009; citation_pages=659-669; citation_doi=10.1016/j.tree.2009.06.009; citation_id=CR58",
+      "citation_journal_title=Proc. Natl. Acad. Sci.; citation_title=Resource extraction and infrastructure threaten forest cover and community rights; citation_author=AJ Bebbington; citation_volume=115; citation_publication_date=2018; citation_pages=13164-13173; citation_doi=10.1073/pnas.1812505115; citation_id=CR59",
+      "citation_journal_title=Glob. Ecol. Conserv.; citation_title=The importance of US national forest roadless areas for vulnerable wildlife species; citation_author=MS Dietz, K Barnett, RT Belote, GH Aplet; citation_volume=32; citation_publication_date=2021; citation_doi=10.1016/j.gecco.2021.e01943; citation_id=CR60",
+      "citation_journal_title=Nat. Commun.; citation_title=Sixteen years of change in the global terrestrial human footprint and implications for biodiversity conservation; citation_author=O Venter; citation_volume=7; citation_publication_date=2016; citation_pages=1-11; citation_doi=10.1038/ncomms12558; citation_id=CR61",
+      "citation_journal_title=Glob. Change Biol.; citation_title=Managing the middle: A shift in conservation priorities based on the global human modification gradient; citation_author=CM Kennedy, JR Oakleaf, DM Theobald, S Baruch-Mordo, J Kiesecker; citation_volume=25; citation_issue=3; citation_publication_date=2019; citation_pages=811-826; citation_doi=10.1111/gcb.14549; citation_id=CR62",
+      "Statistics Canada. Focus on Geography Series, 2021 Census of Population. \n                  https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/page.cfm?topic=1&lang=E&dguid=2021A000011124\n                  \n                . Accessed 10 Apr 2022 (2021).",
+      "citation_journal_title=For. Ecosyst.; citation_title=Young and old forest in the boreal: critical stages of ecosystem dynamics and management under global change; citation_author=T Kuuluvainen, S Gauthier; citation_volume=5; citation_publication_date=2018; citation_pages=26; citation_doi=10.1186/s40663-018-0142-2; citation_id=CR64",
+      "citation_journal_title=Curr. Landsc. Ecol. Rep.; citation_title=Enhancing resilience of boreal forests through management under global change: A review; citation_author=M Trivi\u00f1o; citation_volume=8; citation_publication_date=2023; citation_pages=103-118; citation_doi=10.1007/s40823-023-00088-9; citation_id=CR65",
+      "European Commission. Eurostat Data Browser. Population Density. \n                  https://ec.europa.eu/eurostat/databrowser/view/tps00003/default/table\n                  \n                . Accessed 10 Apr 2022 (2022).",
+      "citation_journal_title=Glob. Change Biol.; citation_title=Cumulative growth and stress responses to the 2018\u20132019 drought in a European floodplain forest; citation_author=F Schnabel; citation_volume=28; citation_publication_date=2022; citation_pages=1870-1883; citation_doi=10.1111/gcb.16028; citation_id=CR67",
+      "citation_journal_title=Sci. Rep.; citation_title=Global areas of low human impact (\u2018low impact areas\u2019) and fragmentation of the natural world; citation_author=AP Jacobson, J Riggop, AM Tait, JEM Baillie; citation_volume=9; citation_publication_date=2019; citation_pages=14179; citation_doi=10.1038/s41598-019-50558-6; citation_id=CR68",
+      "The Nature Conservancy, Terrestrial Ecoregions. \n                  https://geospatial.tnc.org/datasets/b1636d640ede4d6ca8f5e369f2dc368b\n                  \n                . Accessed 13 Aug 2021 (2021).",
+      "Canada Centre for Remote Sensing. 2015 Land Cover of Canada. \n                  https://open.canada.ca/data/en/dataset/4e615eae-b90c-420b-adee-2ca35896caf6\n                  \n                . Accessed 15 Apr 2020 (2019).",
+      "Landcover Europe \u00a9 European Union, Copernicus Land Monitoring Service <2018>. European Environment Agency (EEA). \n                  https://land.copernicus.eu/pan-european/high-resolution-layers/forests\n                  \n                . Accessed 15 Apr 2020 (2022).",
+      "citation_journal_title=Future Internet; citation_title=Recent developments and future trends in volunteered geographic information research: The case of OpenStreetMap; citation_author=P Neis, D Zielstra; citation_volume=6; citation_issue=1; citation_publication_date=2014; citation_pages=76-106; citation_doi=10.3390/fi6010076; citation_id=CR72",
+      "citation_journal_title=Nat. Commun.; citation_title=A global multi-hazard risk analysis of road and railway infrastructure assets; citation_author=EE Koks; citation_volume=10; citation_publication_date=2019; citation_pages=2677; citation_doi=10.1038/s41467-019-10442-3; citation_id=CR73",
+      "Oakleaf, J. R. & Kennedy, C. M. Comparison of global human modification and human footprint maps. Conservation Gateway, The Nature Conservancy. \n                  http://www.conservationgateway.org/ConservationPractices/lands/science/publications/Documents/HM_HF_comparison_documentation.pdf\n                  \n                . Accessed 01 Jan 2024 (2018).",
+      "citation_journal_title=Glob. Ecol. Biogeogr.; citation_title=A comparison of simultaneous autoregressive and generalized least squares models for dealing with spatial autocorrelation; citation_author=S Beguer\u00eda, Y Pueyo; citation_volume=18; citation_publication_date=2009; citation_pages=273-279; citation_doi=10.1111/j.1466-8238.2009.00446.x; citation_id=CR75",
+      "Agresti, A. Categorical data analysis. In Wiley Series in Probability and Statistics . Vol. 792. (Wiley, 2012).",
+      "citation_journal_title=Psychometrika; citation_title=Factor analysis and AIC; citation_author=H Akaike; citation_volume=52; citation_publication_date=1987; citation_pages=317-332; citation_doi=10.1007/BF02294359; citation_id=CR77",
+      "Christensen, R. Ordinal-Regression Models for Ordinal Data. R Package Version 2023.12-4. \n                  https://CRAN.R-project.org/package=ordinal\n                  \n                . Accessed 15 Apr 2022 (2023).",
+      "Pinheiro J. & Bates D. R Core Team. nlme: Linear and Nonlinear Mixed Effects Models. R Package Version 3.1-162. \n                  https://CRAN.R-project.org/package=nlme\n                  \n                 (2023).",
+      "Environmental Systems Research, Inc. (ESRI). 20020401, World Continents: ESRI Data & Maps 2002. (Environmental Systems Research Institute, Inc. (ESRI), 2002).",
+      "R Core Team. R: A Language and Environment for Statistical Computing. \n                  https://www.R-project.org/\n                  \n                 (R Foundation for Statistical Computing, 2021)."
+    ],
+    "citation_author": [
+      "Hoffmann, Monika T.",
+      "Ostapowicz, Katarzyna",
+      "Barto\u0144, Kamil",
+      "Ibisch, Pierre L.",
+      "Selva, Nuria"
+    ],
+    "citation_author_institution": [
+      "Institute of Nature Conservation, Polish Academy of Sciences, Krakow, Poland",
+      "Institute of Geography and Spatial Management, Faculty of Geography and Geology, Jagiellonian University, Krakow, Poland",
+      "Norwegian Institute of Nature Research (NINA), FRAM-High North Centre for Climate and the Environment, Troms\u00f8, Norway",
+      "Institute of Geography and Spatial Management, Faculty of Geography and Geology, Jagiellonian University, Krakow, Poland",
+      "Institute of Nature Conservation, Polish Academy of Sciences, Krakow, Poland",
+      "Centre for Econics and Ecosystem Management, Eberswalde University for Sustainable Development, Eberswalde, Germany",
+      "Institute of Nature Conservation, Polish Academy of Sciences, Krakow, Poland",
+      "Departamento de Ciencias Integradas, Facultad de Ciencias Experimentales, Centro de Estudios Avanzados en F\u00edsica, Matem\u00e1ticas y Computaci\u00f3n, Universidad de Huelva, Huelva, Spain",
+      "Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana, Consejo Superior de Investigaciones Cient\u00edficas, Sevilla, Spain"
+    ]
+  },
+  "degree_paper": {
+    "citation_title": [
+      "Applying the Degree of Urbanisation to the globe:  A new harmonised definition reveals a different picture of global urbanisation"
+    ],
+    "citation_abstract": [
+      "The Degree of Urbanisation is a new definition of cities, towns and semi-dense areas, and rural areas endorsed by the UN Statistical Commission. The urban population share according to the Degree of Urbanisation is similar to the one based on national definitions in the Americas,Europe and Oceania, but considerably higher in Africa and Asia. An empirical analysis and a comparison of concepts suggest that towns are likely to be classified as rural areas in Africa and Asia and as urban areas in other parts of the world. The paper shows that cities cover only a small share of land, but this share doubled over the past forty years, as has the number of cities.\nAlthough cities have expanded rapidly, their population grew even faster leading to higher densities. The paper tests two classic urban facts: 1) the cities and towns as defined by the Degree of Urbanisation closely follow Zipf\u2019s law 2) the population shares in urban areas, cities and especially metropolitan areas are positively and significantly correlated with the level of economic development. Lastly, the sensitivity of the classification of population and land are tested by varying the population size and density thresholds as well using a different global population grid."
+    ],
+    "citation_online_date": [
+      "2021"
+    ],
+    "citation_publication_date": [
+      "2021"
+    ],
+    "citation_doi": [
+      "10.1016/j.jue.2020.103312"
+    ],
+    "citation_issn": [
+      "0094-1190"
+    ],
+    "citation_author": [
+      "DIJKSTRA, Lewis",
+      "FLORCZYK, Aneta",
+      "CARNEIRO, FREIRE Sergio Manuel",
+      "KEMPER, Thomas",
+      "MELCHIORRI, Michele",
+      "PESARESI, Martino",
+      "SCHIAVINA, Marcello"
+    ],
+    "citation_public_url": [
+      "https://publications.jrc.ec.europa.eu/repository/handle/JRC122903"
+    ],
+    "citation_journal_title": [
+      "JOURNAL OF URBAN ECONOMICS"
+    ]
+  },
+  "degree_tools": {
+    "citation_title": [
+      "Applying the Degree of Urbanisation method to National Population and Housing Census with GHSL Tools"
+    ],
+    "citation_abstract": [
+      "The Degree of Urbanisation is a method to delineate urban and rural areas for international statistical comparison. It relies on geospatial data that are generally available in National Statistical Offices and can be implemented with open and free data and tools. This report explains the application of the Degree of Urbanisation method to the 2018 edition of the National Census of Colombia, using tools produced in the framework of the Global Human Settlement Layer project of the European Commission Directorate General Joint Research Centre. The Degree of Urbanisation is applied in a two-stage process to a population grid (obtained combining census data with a built-up surface layer extracted from Copernicus Sentinel-2 imagery): first grid cells are classified based on population size and density criteria, then small local administrative units are classified into cities, towns and semi-dense areas, and rural areas. The completeness and open data policy of the 2018 census of Colombia allows to classify small territorial units, and to disaggregate six demographic and housing variables by Degree of Urbanisation. These include sex ratio and access to infrastructure, like connectivity to internet and access to electricity among others. This technical report contains practical guidance for the application of the Degree of Urbanisation method to national demographic and housing census/surveys and complements the EUROSTAT manual on how to apply the Degree of Urbanisation, produced at the request of the 51st Session of the United Nations Statistical Commission."
+    ],
+    "citation_online_date": [
+      "2021"
+    ],
+    "citation_publication_date": [
+      "2021"
+    ],
+    "citation_doi": [
+      "10.2760/939289"
+    ],
+    "citation_issn": [
+      "1831-9424"
+    ],
+    "citation_isbn": [
+      "978-92-76-37556-2"
+    ],
+    "citation_author": [
+      "MELCHIORRI, Michele",
+      "SCHIAVINA, Marcello",
+      "CARNEIRO, FREIRE Sergio Manuel",
+      "MAFFENINI, Luca",
+      "KEMPER, Thomas",
+      "DIJKSTRA, Lewis"
+    ],
+    "citation_public_url": [
+      "https://publications.jrc.ec.europa.eu/repository/handle/JRC124765"
+    ],
+    "citation_pdf_url": [
+      "https://publications.jrc.ec.europa.eu/repository/bitstream/JRC124765/applying_dou_colombia.pdf"
+    ]
+  },
+  "razavi": {
+    "title": [
+      "The Future of Sensitivity Analysis: An essential discipline for systems modeling and policy support"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1870-5810",
+        "authenticated-orcid": false,
+        "given": "Saman",
+        "family": "Razavi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Jakeman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Saltelli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cl\u00e9mentine",
+        "family": "Prieur",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6988-2126",
+        "authenticated-orcid": false,
+        "given": "Bertrand",
+        "family": "Iooss",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emanuele",
+        "family": "Borgonovo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elmar",
+        "family": "Plischke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Samuele",
+        "family": "Lo Piano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Takuya",
+        "family": "Iwanaga",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "William",
+        "family": "Becker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5728-3385",
+        "authenticated-orcid": false,
+        "given": "Stefano",
+        "family": "Tarantola",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joseph H.A.",
+        "family": "Guillaume",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3517-337X",
+        "authenticated-orcid": false,
+        "given": "John",
+        "family": "Jakeman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hoshin",
+        "family": "Gupta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5229-5416",
+        "authenticated-orcid": false,
+        "given": "Nicola",
+        "family": "Melillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giovanni",
+        "family": "Rabitti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vincent",
+        "family": "Chabridon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qingyun",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6396-6206",
+        "authenticated-orcid": false,
+        "given": "Xifu",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stef\u00e1n",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8004-1985",
+        "authenticated-orcid": false,
+        "given": "Razi",
+        "family": "Sheikholeslami",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5375-6176",
+        "authenticated-orcid": false,
+        "given": "Nasim",
+        "family": "Hosseini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Masoud",
+        "family": "Asadzadeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9469-2156",
+        "authenticated-orcid": false,
+        "given": "Arnald",
+        "family": "Puy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sergei",
+        "family": "Kucherenko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0277-6887",
+        "authenticated-orcid": false,
+        "given": "Holger R.",
+        "family": "Maier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "doi": "10.1016/j.envsoft.2020.104954",
+    "volume": "137",
+    "article": "104954"
+  }
+}

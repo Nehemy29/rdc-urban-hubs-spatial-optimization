@@ -1,0 +1,17 @@
+{
+  "candidate_count": 75,
+  "models": [
+    "reference seven criteria",
+    "uniform seven criteria"
+  ],
+  "dirichlet_concentration": 60,
+  "simulations_per_model": 5000,
+  "seed": 20260902,
+  "limits": [
+    "only 75 previously sampled and filtered sites, not all eligible regional land",
+    "one winner per province; no across-province separation constraint",
+    "weights are assumed, not elicited expert judgments",
+    "weight-only frequencies are conditional, not probabilities of feasibility",
+    "protected areas, tenure and infrastructure capacity unverified"
+  ]
+}

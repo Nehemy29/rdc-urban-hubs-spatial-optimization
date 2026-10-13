@@ -1,0 +1,88 @@
+{
+  "snapshot": "2026-10-05",
+  "source": "HOT/OSM HDX roads.gpkg",
+  "population_mask": "geoBoundaries alternative",
+  "lengths": "WGS84 ellipsoidal geodesic, km",
+  "junctions": "exact shared source coordinates; interior layer key; endpoints level 0; no spatial snapping between roads",
+  "direction": "oneway yes/true/1 forward, -1 reverse; all other values assumed bidirectional, including missing/reversible",
+  "limits": [
+    "no turn restrictions or access tags",
+    "vertex attachment rather than nearest segment",
+    "off-network straight connectors are hypothetical, not observed traversability",
+    "missing layer/bridge tags may cause incorrect junctions",
+    "roads selected by ten provincial pcodes; outside-province detours omitted",
+    "no rail/fluvial routing or navigability validation",
+    "26 hubs are existing urban nodes; this is not a new-hub optimization"
+  ],
+  "scenarios": [
+    {
+      "scenario": "road_classes",
+      "classes": [
+        "living_street",
+        "primary",
+        "primary_link",
+        "residential",
+        "road",
+        "secondary",
+        "secondary_link",
+        "service",
+        "tertiary",
+        "tertiary_link",
+        "trunk",
+        "trunk_link",
+        "unclassified"
+      ],
+      "oneway_nonempty_features": 1589,
+      "oneway_yes_features": 1378,
+      "layer_nonempty_features": 1353,
+      "bridge_nonempty_features": 1332,
+      "weak_component_sizes_top10": [
+        1294595,
+        187112,
+        47697,
+        37938,
+        21865,
+        18329,
+        15393,
+        12234,
+        8893,
+        4102
+      ]
+    },
+    {
+      "scenario": "including_tracks",
+      "classes": [
+        "living_street",
+        "primary",
+        "primary_link",
+        "residential",
+        "road",
+        "secondary",
+        "secondary_link",
+        "service",
+        "tertiary",
+        "tertiary_link",
+        "track",
+        "trunk",
+        "trunk_link",
+        "unclassified"
+      ],
+      "oneway_nonempty_features": 1592,
+      "oneway_yes_features": 1380,
+      "layer_nonempty_features": 1420,
+      "bridge_nonempty_features": 1398,
+      "weak_component_sizes_top10": [
+        1844769,
+        300759,
+        57381,
+        45489,
+        23308,
+        20042,
+        19192,
+        16667,
+        15659,
+        5790
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "aicd.zip",
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published-v2/0040251/2/DR0050161/Democratic_of_Congo_Roads.zip",
+    "sha256": "c882b5770dda891720139b406caed6d202988ba7270389ff55ad4c495772eaf5",
+    "bytes": 2042812
+  },
+  {
+    "file": "aicd_metadata.pdf",
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published-v2/0040251/2/DR0050160/cd_data_descriptions.pdf",
+    "sha256": "bd7e4ea9e3d6b4869fddca1d1bb49a8081fd349fe343a07701966cf2a2be75ec",
+    "bytes": 296231
+  },
+  {
+    "file": "forest_roads.zip",
+    "url": "https://zenodo.org/records/20201702/files/forestroads_afr_2019-01_2025-12.zip?download=1",
+    "sha256": "75d9dc60d0f0e557c3974b380b34b3128a4c9bfcd88283d0850160be08c41d59",
+    "bytes": 41562804
+  },
+  {
+    "file": "hot_roads.zip",
+    "url": "https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/roads/hotosm_cod_roads_osm_gpkg.zip",
+    "sha256": "e70623e58bc1f004ae143ca32d952421ffada78c302c2649b458ca183295c0b7",
+    "bytes": 193072375
+  },
+  {
+    "file": "geoBoundaries-COD-ADM1.geojson",
+    "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COD/ADM1/geoBoundaries-COD-ADM1.geojson",
+    "sha256": "3deb46256765a4ce78a2e8dadaf6f93f43869877e55d242d1e68139b45a5395a",
+    "bytes": 5293887
+  }
+]

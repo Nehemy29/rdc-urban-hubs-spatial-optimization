@@ -1,0 +1,12 @@
+topology,nodes,edges,components,isolates,betweenness_rank_correlation_to_baseline
+MST_knn_1,26,25,1,0,0.6356560711535498
+MST_knn_2,26,35,1,0,0.8678286645642218
+MST_knn_3,26,49,1,0,1.0
+MST_knn_4,26,59,1,0,0.8329179149009867
+MST_knn_5,26,74,1,0,0.4274897068750642
+MST_knn_8,26,124,1,0,0.5602050686524422
+radius_15km,26,0,26,26,
+radius_25km,26,0,26,26,
+radius_40km,26,2,24,22,
+radius_50km,26,3,23,20,
+radius_100km,26,16,12,8,-0.38321308265113774

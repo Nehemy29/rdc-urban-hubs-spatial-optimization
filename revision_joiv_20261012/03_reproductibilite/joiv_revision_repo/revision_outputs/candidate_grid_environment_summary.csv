@@ -1,0 +1,9 @@
+grid_km,forest_rule,protection_rule,eligible_before_environment,unclassified_landcover,after_landcover,after_protected_mask,provinces_with_candidates
+10,strict_tree_exclusion,centre,6519,0,1728,1625,10
+10,strict_tree_exclusion,cell_intersection,6519,0,1728,1583,10
+10,tree_allowed_sensitivity_only,centre,6519,0,6401,5406,10
+10,tree_allowed_sensitivity_only,cell_intersection,6519,0,6401,5156,10
+25,strict_tree_exclusion,centre,1047,0,273,252,9
+25,strict_tree_exclusion,cell_intersection,1047,0,273,241,9
+25,tree_allowed_sensitivity_only,centre,1047,0,1033,872,10
+25,tree_allowed_sensitivity_only,cell_intersection,1047,0,1033,772,10

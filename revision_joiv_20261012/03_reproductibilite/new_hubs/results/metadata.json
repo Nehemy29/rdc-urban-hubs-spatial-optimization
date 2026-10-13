@@ -1,0 +1,29 @@
+{
+  "runs": 16,
+  "candidate_grid_km": 25,
+  "initial_candidates": 241,
+  "demand_grid_km": 5,
+  "threshold_km": 100,
+  "connectors_km": 5,
+  "existing_hubs_fixed": 26,
+  "mode": "roads only with or without tracks; ferry omitted in this design for matched baseline",
+  "objective": "maximise additional modelled population covered beyond all 26 existing hubs",
+  "assumptions": [
+    "all 26 mapped existing hubs treated as available services",
+    "new centre assumed to offer same service without capacity limits",
+    "straight connector is an assumed off-network distance, not an observed road",
+    "no new roads designed",
+    "candidate centres >=40km from mapped existing hubs",
+    "strict full-cell protected-area mask and point-sampled land-cover exclusion",
+    "one optimum only; location identity may not be unique"
+  ],
+  "autonomy": "water proximity is one necessary-resource proxy only; not water quality, energy, local transformation, jobs or measured independence",
+  "limits": [
+    "no empirical household access validation",
+    "no cadastral, slope, finance, hazard or displacement clearance",
+    "coarse sampling omits Equateur and may miss useful sites",
+    "WorldPop and GHSL are modelled population products",
+    "no inference that selected centres are buildable sovereign cities"
+  ],
+  "candidate_source_sha256": "ba589e09ef57edae37f6a6b328c4edf48d8ea5b7774a6981167c9dfb30daf221"
+}

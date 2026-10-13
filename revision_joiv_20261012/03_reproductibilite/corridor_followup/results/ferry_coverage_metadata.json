@@ -1,0 +1,8 @@
+{
+  "new_optimization_runs": 12,
+  "only_changed_structure": "Three mapped Bandundu ferry ways added; exact-coordinate joins only",
+  "retained_assumptions": "Same hubs, complete 1-km population grids, 5-km connectors, 100-km threshold, no deletion or displacement",
+  "conditional_operation": "Ferry usable and bidirectional, no fare, waiting, capacity, season or security constraint",
+  "coverage_is_not_observed": true,
+  "neither_nominal_failure_probability_nor_error_distribution_fitted": true
+}

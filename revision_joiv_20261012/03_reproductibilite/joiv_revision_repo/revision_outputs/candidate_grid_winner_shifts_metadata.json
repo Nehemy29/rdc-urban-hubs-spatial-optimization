@@ -1,0 +1,15 @@
+{
+  "strict_fullcell_common_provinces": 9,
+  "comparison": {
+    "reference": {
+      "count": 9,
+      "median": 212.2201051998091,
+      "max": 313.69641802635283
+    },
+    "uniform": {
+      "count": 9,
+      "median": 52.02268423482061,
+      "max": 264.12619278679324
+    }
+  }
+}

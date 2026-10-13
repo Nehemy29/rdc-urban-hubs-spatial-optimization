@@ -1,0 +1,38 @@
+[
+  {
+    "file": "roads.zip",
+    "url": "https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/roads/hotosm_cod_roads_osm_gpkg.zip",
+    "bytes": 193072375,
+    "sha256": "e70623e58bc1f004ae143ca32d952421ffada78c302c2649b458ca183295c0b7",
+    "download_date": "2026-10-08"
+  },
+  {
+    "file": "forest_roads.zip",
+    "url": "https://zenodo.org/records/20201702/files/forestroads_afr_2019-01_2025-12.zip?download=1",
+    "bytes": 41562804,
+    "sha256": "75d9dc60d0f0e557c3974b380b34b3128a4c9bfcd88283d0850160be08c41d59",
+    "download_date": "2026-10-08"
+  },
+  {
+    "file": "published_distances.pdf",
+    "url": "https://logcluster.org/sites/default/files/public/maps/coddistcapittomajortown4l_20180906.pdf",
+    "bytes": 953526,
+    "sha256": "cdf0236a6fc84610004d9cf78ce32b70de6b22c3a5cb3952f28b945168c2aed2",
+    "download_date": "2026-10-08"
+  },
+  {
+    "file": "jica_appendix.pdf",
+    "url": "https://openjicareport.jica.go.jp/pdf/12340329_01.pdf?complete=20261008",
+    "bytes": 11573464,
+    "sha256": "dff4b2445bb19a670c62519c51a2e769698a9b9d0dba5d4f0033d84231c8fc41",
+    "download_date": "2026-10-08"
+  },
+  {
+    "file": "geoBoundaries-COD-ADM1.geojson",
+    "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COD/ADM1/geoBoundaries-COD-ADM1.geojson",
+    "version": "COD-ADM1-28894549; represented 2017; ODbL 1.0",
+    "bytes": 5293887,
+    "sha256": "3deb46256765a4ce78a2e8dadaf6f93f43869877e55d242d1e68139b45a5395a",
+    "access_date": "2026-10-06"
+  }
+]

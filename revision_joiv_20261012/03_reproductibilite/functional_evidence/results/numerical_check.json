@@ -1,0 +1,7 @@
+{
+  "five_example_sites": 5,
+  "coarse_step_degrees": 0.01,
+  "fine_step_degrees": 0.001,
+  "max_distance_difference_km": 7.136681006159051e-07,
+  "scope": "numerical discretization only; not empirical cartographic or operational validation"
+}

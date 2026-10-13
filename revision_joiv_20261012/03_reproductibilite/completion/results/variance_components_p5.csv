@@ -1,0 +1,64 @@
+factors,order,variance_pp2,share_pct
+product,1,58.3622486783289,95.46390125308521
+resolution_km,1,0.4012383619089012,0.6563108897900295
+tracks,1,0.34006209217356737,0.5562440571147734
+connector_km,1,1.1065228585758347,1.809954059302529
+removal_fraction,1,0.3937550606485527,0.6440703550480865
+jitter_km,1,2.1122856523608873e-05,3.455093549371138e-05
+product × resolution_km,2,0.0019044220738919648,0.0031150883477477397
+product × tracks,2,0.008293066959986106,0.013565079195574372
+connector_km × product,2,0.03512426276892455,0.05745322067765194
+product × removal_fraction,2,0.002756317606717573,0.004508545126149872
+jitter_km × product,2,5.613310096919122e-05,9.181765489344693e-05
+resolution_km × tracks,2,0.002976007553891713,0.004867894875315981
+connector_km × resolution_km,2,0.3779615469313189,0.6182366959947626
+removal_fraction × resolution_km,2,0.0004351137134306349,0.0007117212498398665
+jitter_km × resolution_km,2,2.9065388061411124e-05,4.754263926789809e-05
+connector_km × tracks,2,0.003384599546159439,0.005536234195441102
+removal_fraction × tracks,2,0.0910104230534673,0.14886695143060555
+jitter_km × tracks,2,5.105514601644323e-07,8.351157688660771e-07
+connector_km × removal_fraction,2,0.0033533701012740114,0.005485151779834348
+connector_km × jitter_km,2,1.2458422626870913e-07,2.0378406493141682e-07
+jitter_km × removal_fraction,2,3.1456174381938595e-07,5.14532800397779e-07
+product × resolution_km × tracks,3,0.00047951726762818225,0.0007843527301065733
+connector_km × product × resolution_km,3,0.00015037215803914705,0.00024596572564197317
+product × removal_fraction × resolution_km,3,0.0001264107689067373,0.0002067717648569685
+jitter_km × product × resolution_km,3,2.056975797160021e-05,3.364622488457775e-05
+connector_km × product × tracks,3,6.368480990204262e-05,0.00010417008496911428
+product × removal_fraction × tracks,3,0.00010032153917904907,0.00016409726709694836
+jitter_km × product × tracks,3,2.1183968357263439e-07,3.465089692743799e-07
+connector_km × product × removal_fraction,3,0.0007411258076004401,0.001212269275346696
+connector_km × jitter_km × product,3,1.2778260582990697e-07,2.0901569663709256e-07
+jitter_km × product × removal_fraction,3,1.804383273906751e-07,2.9514535608857363e-07
+connector_km × resolution_km × tracks,3,0.0009257796919976968,0.0015143100737274459
+removal_fraction × resolution_km × tracks,3,7.110354005512853e-05,0.00011630499989778557
+jitter_km × resolution_km × tracks,3,1.6744368981358448e-06,2.738898557168129e-06
+connector_km × removal_fraction × resolution_km,3,0.0005107307023637375,0.0008354089576996529
+connector_km × jitter_km × resolution_km,3,1.5900360639253819e-06,2.60084299753481e-06
+jitter_km × removal_fraction × resolution_km,3,1.4431087401178821e-05,2.360512032759159e-05
+connector_km × removal_fraction × tracks,3,0.0004958269428212425,0.0008110306813055019
+connector_km × jitter_km × tracks,3,1.2994920539632915e-07,2.1255963217329654e-07
+jitter_km × removal_fraction × tracks,3,1.0242618417088956e-05,1.6753986271695685e-05
+connector_km × jitter_km × removal_fraction,3,3.781149198189837e-07,6.184875700534992e-07
+connector_km × product × resolution_km × tracks,4,2.317780968041916e-06,3.7912249522625697e-06
+product × removal_fraction × resolution_km × tracks,4,0.0004108681042822582,0.0006720623866195913
+jitter_km × product × resolution_km × tracks,4,7.597869256414924e-06,1.242793512679667e-05
+connector_km × product × removal_fraction × resolution_km,4,4.3260392530442004e-06,7.076159562421559e-06
+connector_km × jitter_km × product × resolution_km,4,1.7209139713258992e-06,2.814921719846494e-06
+jitter_km × product × removal_fraction × resolution_km,4,2.0924324672932926e-06,3.4226194322531005e-06
+connector_km × product × removal_fraction × tracks,4,2.5089386305410244e-05,4.1039040664133164e-05
+connector_km × jitter_km × product × tracks,4,2.2195879978426092e-07,3.6306094135687276e-07
+jitter_km × product × removal_fraction × tracks,4,6.083623070196609e-06,9.95106263357345e-06
+connector_km × jitter_km × product × removal_fraction,4,5.008016827900974e-07,8.191679291994969e-07
+connector_km × removal_fraction × resolution_km × tracks,4,8.023095713838302e-05,0.00013123483661353698
+connector_km × jitter_km × resolution_km × tracks,4,2.213179670196297e-06,3.620127227369961e-06
+jitter_km × removal_fraction × resolution_km × tracks,4,2.879999576377301e-06,4.710853358025241e-06
+connector_km × jitter_km × removal_fraction × resolution_km,4,1.381728305105412e-07,2.2601112442426318e-07
+connector_km × jitter_km × removal_fraction × tracks,4,4.912376001531271e-07,8.03523832868248e-07
+connector_km × product × removal_fraction × resolution_km × tracks,5,1.3940676190316026e-05,2.2802948230603906e-05
+connector_km × jitter_km × product × resolution_km × tracks,5,1.6283379125070496e-06,2.6634938373090607e-06
+jitter_km × product × removal_fraction × resolution_km × tracks,5,4.739424497302025e-07,7.752339268155979e-07
+connector_km × jitter_km × product × removal_fraction × resolution_km,5,1.0400911776287103e-07,1.7012908810729417e-07
+connector_km × jitter_km × product × removal_fraction × tracks,5,2.7941901237227285e-07,4.570493702592034e-07
+connector_km × jitter_km × removal_fraction × resolution_km × tracks,5,2.308871893674791e-08,3.776652261612365e-08
+connector_km × jitter_km × product × removal_fraction × resolution_km × tracks,6,2.202223043923368e-07,3.6022053290148997e-07

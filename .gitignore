@@ -29,3 +29,7 @@ qa_*/
 # Fichiers système
 .DS_Store
 Thumbs.db
+
+# Documents archivés de la révision JOIV
+!revision_joiv_20261012/**/*.docx
+!revision_joiv_20261012/**/*.pdf

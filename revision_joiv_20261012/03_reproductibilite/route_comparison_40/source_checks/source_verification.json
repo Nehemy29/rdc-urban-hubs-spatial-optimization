@@ -1,0 +1,11 @@
+{
+  "analysis_date": "2026-10-12",
+  "references": "user supplied OSRM 40-route CSV and documentary audit",
+  "DK_page": "https://kayou.app/trajets",
+  "DK_web_check": "120 km Matadi\u2013Boma and 155 km Kinshasa\u2013Mbanza-Ngungu verified via web reader; field measurement method and independent provenance not established",
+  "Scribd_check": "retrieval failed and original source unverified; value retained but excluded from confirmed checks",
+  "OSRM_api": "https://project-osrm.org/docs/v5.24.0/api/",
+  "OSRM_method": "route service seeks fastest route; input CSV has no server epoch or raw snap diagnostics",
+  "no_interviews_claimed": true,
+  "no_empirical_precision_claimed": true
+}

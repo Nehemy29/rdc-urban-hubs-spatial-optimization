@@ -1,0 +1,20 @@
+p,solver_status,solver_message,mip_gap,objective_population_km,mean_distance_km,released_heuristic_objective,heuristic_excess_pct
+2,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,1828343349.865863,248.0278047986692,,
+3,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,1330235580.0897655,180.45593614511992,,
+4,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,924777437.8223134,125.45264971551104,,
+5,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,592930677.0345329,80.43527176307077,592930677.0,-5.824104901714798e-09
+6,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,443957378.00651616,60.225982116109485,,
+7,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,361250204.96286786,49.00616469361893,,
+8,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,295306270.90764314,40.06040010038454,,
+9,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,247671304.83838904,33.59837749030806,,
+10,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,209023492.76476115,28.355526365218953,209023493.0,1.1254182341191275e-07
+11,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,179567507.4055636,24.3596120379896,,
+12,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,155429176.17446297,21.085075388627608,,
+13,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,133470901.3229379,18.106278922969693,,
+14,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,111532315.4544717,15.130153408174026,,
+15,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,92698650.3984555,12.575232528296723,92698650.0,-4.2983959193580776e-07
+16,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,74290973.32789329,10.07809995437985,,
+17,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,59458769.26717469,8.066005774270934,,
+18,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,46787108.37555437,6.347004671807156,,
+19,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,35509125.59907314,4.8170659374807725,,
+20,0,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,26126383.074726336,3.5442300494756034,,

@@ -1,0 +1,28 @@
+{
+  "total_runs": 108,
+  "five_stochastic_realizations": [
+    20261007,
+    20261008,
+    20261009,
+    20261010,
+    20261011
+  ],
+  "baseline_seed": 0,
+  "roads": "main classes",
+  "grid_km": 5,
+  "connector_km": 5,
+  "threshold_km": [
+    50,
+    100,
+    150
+  ],
+  "removal": "independent 1% feature deletion in each realization",
+  "coordinates": "250 m fixed displacement with independently drawn azimuth; seed+100000",
+  "limits": [
+    "five realizations do not estimate tails",
+    "uncalibrated stress magnitudes",
+    "range/std are scenario descriptors, not statistical confidence",
+    "joint deletion+coordinate perturbation cannot separately attribute their effects",
+    "no empirical validation"
+  ]
+}

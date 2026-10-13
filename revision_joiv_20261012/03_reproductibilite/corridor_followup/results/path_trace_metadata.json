@@ -1,0 +1,24 @@
+[
+  {
+    "road_set": "main",
+    "distance_without_offsets_km": 922.597625589799,
+    "path_vertices": 8262,
+    "bounds_lon_lat": [
+      15.3135675,
+      -5.0472675,
+      19.0126566,
+      -3.3168444
+    ]
+  },
+  {
+    "road_set": "main_plus_tracks",
+    "distance_without_offsets_km": 879.8625548006322,
+    "path_vertices": 7957,
+    "bounds_lon_lat": [
+      15.3135675,
+      -5.0472675,
+      19.0126566,
+      -3.3168444
+    ]
+  }
+]

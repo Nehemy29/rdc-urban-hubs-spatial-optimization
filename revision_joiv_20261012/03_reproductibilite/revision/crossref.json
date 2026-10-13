@@ -1,0 +1,963 @@
+{
+  "10.1038/s41598-022-24495-w": {
+    "title": [
+      "Fine-grained population mapping from coarse census counts and open geodata"
+    ],
+    "author": [
+      {
+        "given": "Nando",
+        "family": "Metzger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John E.",
+        "family": "Vargas-Mu\u00f1oz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rodrigo C.",
+        "family": "Daudt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin",
+        "family": "Kellenberger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thao Ton-That",
+        "family": "Whelan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ferda",
+        "family": "Ofli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad",
+        "family": "Imran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Konrad",
+        "family": "Schindler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Devis",
+        "family": "Tuia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          22
+        ]
+      ]
+    },
+    "published-print": null,
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "volume": "12",
+    "issue": "1",
+    "page": null,
+    "article-number": "20085",
+    "DOI": "10.1038/s41598-022-24495-w"
+  },
+  "10.1038/s41598-024-55283-3": {
+    "title": [
+      "Mapping roadless areas in regions with contrasting human footprint"
+    ],
+    "author": [
+      {
+        "given": "Monika T.",
+        "family": "Hoffmann",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katarzyna",
+        "family": "Ostapowicz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kamil",
+        "family": "Barto\u0144",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pierre L.",
+        "family": "Ibisch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nuria",
+        "family": "Selva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          27
+        ]
+      ]
+    },
+    "published-print": null,
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "volume": "14",
+    "issue": "1",
+    "page": null,
+    "article-number": "4722",
+    "DOI": "10.1038/s41598-024-55283-3"
+  },
+  "10.1016/j.jue.2020.103312": {
+    "title": [
+      "Applying the Degree of Urbanisation to the globe: A new harmonised definition reveals a different picture of global urbanisation"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4077-8250",
+        "authenticated-orcid": false,
+        "given": "Lewis",
+        "family": "Dijkstra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aneta J.",
+        "family": "Florczyk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sergio",
+        "family": "Freire",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3446-8301",
+        "authenticated-orcid": false,
+        "given": "Thomas",
+        "family": "Kemper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michele",
+        "family": "Melchiorri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martino",
+        "family": "Pesaresi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3399-3400",
+        "authenticated-orcid": false,
+        "given": "Marcello",
+        "family": "Schiavina",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Urban Economics"
+    ],
+    "volume": "125",
+    "issue": null,
+    "page": "103312",
+    "article-number": "103312",
+    "DOI": "10.1016/j.jue.2020.103312"
+  },
+  "10.1111/gean.12281": {
+    "title": [
+      "Street Network Models and Indicators for Every Urban Area in the World"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1851-6411",
+        "authenticated-orcid": false,
+        "given": "Geoff",
+        "family": "Boeing",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urban Planning and Spatial Analysis Sol Price School of Public Policy University of Southern California  Los Angeles CA USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "container-title": [
+      "Geographical Analysis"
+    ],
+    "volume": "54",
+    "issue": "3",
+    "page": "519-535",
+    "article-number": null,
+    "DOI": "10.1111/gean.12281"
+  },
+  "10.1038/s41598-021-82404-z": {
+    "title": [
+      "The evolution of humanitarian mapping within the OpenStreetMap community"
+    ],
+    "author": [
+      {
+        "given": "Benjamin",
+        "family": "Herfort",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sven",
+        "family": "Lautenbach",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jo\u00e3o",
+        "family": "Porto de Albuquerque",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennings",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander",
+        "family": "Zipf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          4
+        ]
+      ]
+    },
+    "published-print": null,
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "volume": "11",
+    "issue": "1",
+    "page": null,
+    "article-number": "3037",
+    "DOI": "10.1038/s41598-021-82404-z"
+  },
+  "10.1038/s41467-023-39698-6": {
+    "title": [
+      "A spatio-temporal analysis investigating completeness and inequalities of global urban building data in OpenStreetMap"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9738-4060",
+        "authenticated-orcid": false,
+        "given": "Benjamin",
+        "family": "Herfort",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1825-9996",
+        "authenticated-orcid": false,
+        "given": "Sven",
+        "family": "Lautenbach",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3160-3168",
+        "authenticated-orcid": false,
+        "given": "Jo\u00e3o",
+        "family": "Porto de Albuquerque",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9816-5142",
+        "authenticated-orcid": false,
+        "given": "Jennings",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4916-9838",
+        "authenticated-orcid": false,
+        "given": "Alexander",
+        "family": "Zipf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          6
+        ]
+      ]
+    },
+    "published-print": null,
+    "container-title": [
+      "Nature Communications"
+    ],
+    "volume": "14",
+    "issue": "1",
+    "page": null,
+    "article-number": "3985",
+    "DOI": "10.1038/s41467-023-39698-6"
+  },
+  "10.1038/s41467-022-29094-x": {
+    "title": [
+      "High-resolution population estimation using household survey data and building footprints"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4078-8221",
+        "authenticated-orcid": false,
+        "given": "Gianluca",
+        "family": "Boo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8176-092X",
+        "authenticated-orcid": false,
+        "given": "Edith",
+        "family": "Darin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Douglas R.",
+        "family": "Leasure",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2415-9895",
+        "authenticated-orcid": false,
+        "given": "Claire A.",
+        "family": "Dooley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0828-6974",
+        "authenticated-orcid": false,
+        "given": "Heather R.",
+        "family": "Chamberlain",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2033-2013",
+        "authenticated-orcid": false,
+        "given": "Attila N.",
+        "family": "L\u00e1z\u00e1r",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kevin",
+        "family": "Tschirhart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4585-9575",
+        "authenticated-orcid": false,
+        "given": "Cyrus",
+        "family": "Sinai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1770-6304",
+        "authenticated-orcid": false,
+        "given": "Nicole A.",
+        "family": "Hoff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9954-4267",
+        "authenticated-orcid": false,
+        "given": "Trevon",
+        "family": "Fuller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kamy",
+        "family": "Musene",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arly",
+        "family": "Batumbo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0662-9067",
+        "authenticated-orcid": false,
+        "given": "Anne W.",
+        "family": "Rimoin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7270-941X",
+        "authenticated-orcid": false,
+        "given": "Andrew J.",
+        "family": "Tatem",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          14
+        ]
+      ]
+    },
+    "published-print": null,
+    "container-title": [
+      "Nature Communications"
+    ],
+    "volume": "13",
+    "issue": "1",
+    "page": null,
+    "article-number": "1330",
+    "DOI": "10.1038/s41467-022-29094-x"
+  },
+  "10.1073/pnas.2011990118": {
+    "title": [
+      "Global mapping of urban\u2013rural catchment areas reveals unequal access to services"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8845-5020",
+        "authenticated-orcid": false,
+        "given": "Andrea",
+        "family": "Cattaneo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Agri-Food Economics Division, Food and Agriculture Organization of the United Nations, 00153 Rome, Italy;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7249-3778",
+        "authenticated-orcid": false,
+        "given": "Andrew",
+        "family": "Nelson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Geo-Information Science and Earth Observation, University of Twente, 7514 AE Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6100-7850",
+        "authenticated-orcid": false,
+        "given": "Theresa",
+        "family": "McMenomy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Agri-Food Economics Division, Food and Agriculture Organization of the United Nations, 00153 Rome, Italy;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          12
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": "118",
+    "issue": "2",
+    "page": null,
+    "article-number": "e2011990118",
+    "DOI": "10.1073/pnas.2011990118"
+  },
+  "10.1016/j.envsoft.2020.104954": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "10.1371/journal.pone.0271504": {
+    "title": [
+      "How accurate are WorldPop-Global-Unconstrained gridded population data at the cell-level?: A simulation analysis in urban Namibia"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9507-9123",
+        "authenticated-orcid": true,
+        "given": "Dana R.",
+        "family": "Thomson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8768-2811",
+        "authenticated-orcid": true,
+        "given": "Douglas R.",
+        "family": "Leasure",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tomas",
+        "family": "Bird",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nikos",
+        "family": "Tzavidis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Tatem",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          21
+        ]
+      ]
+    },
+    "published-print": null,
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "volume": "17",
+    "issue": "7",
+    "page": "e0271504",
+    "article-number": null,
+    "DOI": "10.1371/journal.pone.0271504"
+  }
+}

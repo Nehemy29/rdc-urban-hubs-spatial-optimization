@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "main_optimization_runs": 396,
+  "extension_runs": 108,
+  "extension_all_solver_status_zero": true,
+  "extension_all_gap_zero": true,
+  "native_worldcover_candidates": 7566,
+  "unknown_worldcover": 0,
+  "native_samples_independently_checked": 100,
+  "protected_records_polygons": 59,
+  "protected_established_polygons": 58,
+  "protected_point_records": 1,
+  "protected_raw_redistributed": false,
+  "abstract_words": 230,
+  "manuscript_tables": 11,
+  "manuscript_figures": 4,
+  "manuscript_references": 33,
+  "remaining": [
+    "compatible empirical validation",
+    "actual expert elicitation",
+    "forest integrity and tenure",
+    "calibrated uncertainty distributions and operational routing"
+  ],
+  "independent_clean_machine_run": false
+}

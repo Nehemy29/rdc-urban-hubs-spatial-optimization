@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-12",
+  "runs": 4,
+  "route_pairs": 40,
+  "comparison_rows": 160,
+  "road_archive_sha256": "e70623e58bc1f004ae143ca32d952421ffada78c302c2649b458ca183295c0b7",
+  "graph_function_sha256": "95af276f4dd2b7d78b523186e063c13174be743355327facbe491938f42dc53d",
+  "input_osrm_sha256": "1ccac20972b9e9e85f3d36a65221469400b14a34a4be5cbcbeb0a2d08abb34c4",
+  "ferry_source_sha256": "abe4c42a00f0f1e783df36b255f1fa114bd80526e3358653aee79fcf2bc6273f",
+  "source_epoch": "HOT/OSM snapshot 5 Oct 2026; ferry geometry retrieved 8 Oct 2026",
+  "same_original_graph_rules": true,
+  "distance_objective": "directed minimum geodesic road length + assumed connectors <=5km at both ends",
+  "osrm_objective": "fastest driving route distance; not minimum length",
+  "graph": [
+    {
+      "scenario": "main_road_only",
+      "features": 106892,
+      "vertices": 1734033,
+      "arcs": 3594763,
+      "seconds": 15.111963987350464
+    },
+    {
+      "scenario": "main_conditional_Bandundu_ferry",
+      "features": 106895,
+      "vertices": 1734038,
+      "arcs": 3594775,
+      "seconds": 11.77180290222168
+    },
+    {
+      "scenario": "main_tracks_road_only",
+      "features": 147365,
+      "vertices": 2518218,
+      "arcs": 5187173,
+      "seconds": 17.224645614624023
+    },
+    {
+      "scenario": "main_tracks_conditional_Bandundu_ferry",
+      "features": 147368,
+      "vertices": 2518223,
+      "arcs": 5187185,
+      "seconds": 24.60330104827881
+    }
+  ],
+  "osrm_limitations": [
+    "Shared OSM provenance; no independent field validation",
+    "Supplied CSV, no raw response/waypoint snap distances or server data epoch",
+    "Different profile, cost function, extraction and potentially mode rules"
+  ],
+  "documentary_sources": [
+    {
+      "ids": [
+        "TR-001",
+        "TR-018"
+      ],
+      "url": "https://kayou.app/trajets",
+      "web_checked": "2026-10-12",
+      "status": "advertised commercial distances, measurement method and independence unverified"
+    },
+    {
+      "ids": [
+        "TR-032"
+      ],
+      "url": "https://fr.scribd.com/document/704533262/PROJET-TRANSPORT",
+      "status": "original provenance unverified; excluded from confirmed checks"
+    }
+  ],
+  "no_population_coverage_validation": true,
+  "no_error_distribution_calibration": true,
+  "no_simulated_observed_distance_used": true,
+  "no_optimizations_or_hub_locations_changed": true
+}

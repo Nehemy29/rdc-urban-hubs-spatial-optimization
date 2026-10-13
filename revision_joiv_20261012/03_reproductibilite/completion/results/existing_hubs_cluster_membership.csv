@@ -1,0 +1,27 @@
+node_id,name,cluster_id,ghspop_2025_cluster,morphological_area_km2,point_inside_mapped_component
+GN2312895,Mbandaka,urban_centre_00041,464867.73945223726,41.0,True
+GN2314302,Kinshasa,urban_centre_00082,12960942.178658945,501.0,True
+GN2313002,Matadi,urban_centre_00117,415703.941749027,43.0,True
+GN2316702,Boma,urban_centre_00116,187202.97300566733,33.0,True
+GN2312888,Mbanza-Ngungu,urban_centre_00101,218446.76949540153,30.0,True
+GN2312393,Moanda,urban_centre_00120,76337.06924207765,25.0,True
+GN2315419,Inkisi,urban_centre_00099,183794.7034008354,28.0,True
+GN2314523,Kimpese,urban_centre_00113,111119.71722255368,17.0,True
+GN2311127,Tshela,urban_centre_00097,133137.73211364448,13.0,True
+GN2314937,Kenge,urban_centre_00092,108939.9386914447,20.0,True
+GN2314705,Kikwit,urban_centre_00098,488733.90594728757,72.0,True
+GN2317397,Bandundu Province,urban_centre_00073,178670.61989197694,30.0,True
+GN2315579,Idiofa,urban_centre_00096,131882.5098892469,20.0,True
+GN2316259,Bulungu,urban_centre_00086,58987.8142212145,11.0,True
+GN2313084,Mangai,,,,False
+GN2316091,Dibaya-Lubwe,urban_centre_00080,61939.43618555926,10.0,True
+GN2315417,Inongo,dense_urban_cluster_00283,48529.25685501564,12.0,True
+GN2311968,Nioki,dense_urban_cluster_00311,14394.802703082561,7.0,True
+GN2312249,Mushie,dense_urban_cluster_00322,32537.719693067484,9.0,True
+GN2313874,Kutu,dense_urban_cluster_00313,10236.553581416607,5.0,True
+GN217745,Bumba,urban_centre_00025,199405.23051930964,30.0,True
+GN211734,Lisala,urban_centre_00026,226972.7226645425,25.0,True
+GN218855,Binga,urban_centre_00023,57488.518384745345,11.0,True
+GN216404,Gbadolite,urban_centre_00004,100793.6870929543,16.0,True
+GN2315728,Gemena,urban_centre_00012,411587.8826209083,37.0,True
+GN218680,Boende,urban_centre_00047,144791.83998633176,8.0,True

@@ -1,0 +1,14 @@
+{
+  "source_sha256": "ba589e09ef57edae37f6a6b328c4edf48d8ea5b7774a6981167c9dfb30daf221",
+  "definition": "c_j=sigma_j sum_k(1-r_jk); w_j=c_j/sum_l c_l",
+  "score_scaling": "Retain existing common 0\u20131 transformations and limits; no grid-specific rescaling",
+  "std_ddof": 0,
+  "candidate_sampling": "Equal weight per admitted candidate centre, separately at 10/25 km",
+  "limitations": [
+    "Data-driven contrast/correlation weights, not expert judgments or normative priorities",
+    "Candidate density and masks influence weights",
+    "Original 30/25/20/10/5/10 vector remains unelicited",
+    "No empirical mobility validation or greenfield recommendation",
+    "Does not alter main population-covering objective"
+  ]
+}
