@@ -47,7 +47,9 @@ Les graphes complets atteignent 1,7 à 2,5 millions de sommets. Prévoir suffisa
 
 ## Citation et archivage
 
-Citer les métadonnées de CITATION.cff et préciser le commit utilisé. L’archive Zenodo historique [v1.0.0](https://doi.org/10.5281/zenodo.22287394) précède ces révisions et ne contient pas les nouveaux calculs. Aucun DOI de nouvelle version n’est annoncé. La création d’une release GitHub v2.0.0 et la vérification de son archivage Zenodo constituent l’étape suivante; actualiser la citation du manuscrit uniquement après attribution effective du nouveau DOI.
+**v2.0.0 est publiée et archivée : [10.5281/zenodo.23389655](https://doi.org/10.5281/zenodo.23389655), 15 octobre 2026, commit `8a4a186`.** Les documents courants ajoutent cette citation après publication; le tag et les calculs archivés sont inchangés.
+
+Citer les métadonnées de CITATION.cff et préciser le commit utilisé. L’archive Zenodo historique [v1.0.0](https://doi.org/10.5281/zenodo.22287395) précède ces révisions et ne contient pas les nouveaux calculs. Le DOI [10.5281/zenodo.22287394](https://doi.org/10.5281/zenodo.22287394) regroupe toutes les versions. Pour citer précisément les calculs de cette révision, utiliser le DOI de v2.0.0 ci-dessus. La note antérieure annonçant l’ajout futur du DOI est conservée dans l’archive figée; les métadonnées courantes sont actualisées ici.
 
 ## Licences et provenance
 

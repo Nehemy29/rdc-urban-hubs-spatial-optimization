@@ -1,3 +1,13 @@
+# Citation de l’archive confirmée le 15 octobre 2026
+
+L’analyse révisée est archivée sous v2.0.0 : https://doi.org/10.5281/zenodo.23389655 (commit 8a4a186). Le dépôt est https://github.com/Nehemy29/rdc-urban-hubs-spatial-optimization.
+
+Les documents prêts à soumettre citent désormais ce DOI. Il s’agit d’une mise à jour documentaire postérieure à la publication de l’archive; les calculs et l’étiquette v2.0.0 restent figés. Les fichiers archivés peuvent donc encore porter la note historique annonçant l’ajout futur du DOI. Aucune nouvelle version Zenodo n’est nécessaire pour citer correctement les calculs de v2.0.0.
+
+Le DOI 10.5281/zenodo.22287395 correspond à v1.0.0; le DOI 10.5281/zenodo.22287394 correspond à toutes les versions. Le DOI 23389655 est celui à utiliser dans l’article pour figer précisément la révision calculée.
+
+Les limites scientifiques et les réponses partielles aux reviewers sont conservées. L’archivage ne remplace pas une validation indépendante de terrain. Déposer les documents dans la soumission existante JOIV 6222. Aucun renvoi à la revue n’a été effectué par cet amendement.
+
 # Révision consolidée JOIV 6222 du 12 octobre 2026
 
 Version finale documentaire : 17 pages, 24 tableaux, 6 figures, 47 références; réponse point par point de 4 pages. Utiliser completion/final et les copies 01_manuscrit et 02_reponse, pas les anciens documents conservés comme entrées de reproduction.
@@ -10,6 +20,6 @@ Pour reconstruire les nouveaux documents, suivre route_comparison_40/README_FR.m
 
 La validation empirique régionale, l’opérationnalité, les erreurs calibrées, les fonctions locales et la constructibilité restent non établies ou partielles. Les avis d’experts ne sont pas inventés. La nouvelle fonction objectif ne nécessite pas de poids d’un panel. Le dossier ne prétend pas que toutes les demandes des reviewers sont satisfaites.
 
-Les couches lourdes et sources sous restrictions ne sont pas toutes embarquées; leurs liens et conditions sont documentés. Aucune nouvelle publication GitHub/Zenodo n’a été effectuée par ce dossier. L’ancien DOI v1.0.0 ne couvre pas ces révisions; la nouvelle version devra être archivée avant de mettre à jour sa citation.
+Les couches lourdes et sources sous restrictions ne sont pas toutes embarquées; leurs liens et conditions sont documentés. Les calculs sont publiés comme v2.0.0 et archivés sous https://doi.org/10.5281/zenodo.23389655. Les fichiers de soumission ajoutent la citation après archivage; les calculs restent inchangés.
 
 Renvoi dans la soumission existante 6222 : manuscrit, réponse aux reviewers et pièces complémentaires selon l’interface.
